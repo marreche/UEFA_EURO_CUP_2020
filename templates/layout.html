@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    <header>
+      <div class="container">
+        <h1 class="logo">MENU</h1>
+        <p>Choose desired data:</p>
+        <strong><nav>
+          <ul class="menu">
+            <li><a href="{{ url_for('menu') }}">Endpoints</a></li>
+            <li><a href="{{ url_for('stages') }}">Stages</a></li>
+            <li><a href="{{ url_for('final') }}">Final</a></li>
+            <li><a href="{{ url_for('semi_final') }}">Semi-Final</a></li>
+            <li><a href="{{ url_for('quarter_final') }}">Quarter-Final</a></li>
+            <li><a href="{{ url_for('round_of_sixteen') }}">Round of Sixteen</a></li>
+            <li><a href="{{ url_for('groups_day_one') }}">Group Stage: Matchday 1</a></li>
+            <li><a href="{{ url_for('groups_day_two') }}">Group Stage: Matchday 2</a></li>
+            <li><a href="{{ url_for('groups_day_three') }}">Group Stage: Matchday 3</a></li>
+            <li><a href="{{ url_for('teams') }}">Teams</a></li>
+            <li><a href="{{ url_for('players') }}">Players by Country</a></li>
+            <li><a href="{{ url_for('all') }}">All Data</a></li>
+          </ul>
+        </nav></strong>
+      </div>
+    </header>
+    <div class="container">
+        {% block content %}
+        {% endblock %}
+    </div>
+  </body>
+</html>

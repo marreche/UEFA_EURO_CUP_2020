@@ -1,0 +1,6298 @@
+{
+    "Portugal": [
+        {
+            "Age": "33",
+            "Name": "Rui Patrício",
+            "Number": "1",
+            "OVRPOT": [
+                "83",
+                "83"
+            ],
+            "Position": "GK",
+            "Preferred Positions": "GK",
+            "Nationality": "Portugal"
+        },
+        {
+            "Age": "27",
+            "Name": "João Cancelo",
+            "Number": "20",
+            "OVRPOT": [
+                "85",
+                "87"
+            ],
+            "Position": "RB",
+            "Preferred Positions": "RBLB",
+            "Nationality": "Portugal"
+        },
+        {
+            "Age": "38",
+            "Name": "Pepe",
+            "Number": "3",
+            "OVRPOT": [
+                "81",
+                "81"
+            ],
+            "Position": "RCB",
+            "Preferred Positions": "CB",
+            "Nationality": "Portugal"
+        },
+        {
+            "Age": "24",
+            "Name": "Rúben Dias",
+            "Number": "4",
+            "OVRPOT": [
+                "85",
+                "89"
+            ],
+            "Position": "LCB",
+            "Preferred Positions": "CB",
+            "Nationality": "Portugal"
+        },
+        {
+            "Age": "27",
+            "Name": "Raphaël Guerreiro",
+            "Number": "5",
+            "OVRPOT": [
+                "83",
+                "83"
+            ],
+            "Position": "LB",
+            "Preferred Positions": "LBLM",
+            "Nationality": "Portugal"
+        },
+        {
+            "Age": "29",
+            "Name": "Danilo Pereira",
+            "Number": "13",
+            "OVRPOT": [
+                "81",
+                "81"
+            ],
+            "Position": "CDM",
+            "Preferred Positions": "CDMCMCB",
+            "Nationality": "Portugal"
+        },
+        {
+            "Age": "26",
+            "Name": "Bruno Fernandes",
+            "Number": "11",
+            "OVRPOT": [
+                "88",
+                "91"
+            ],
+            "Position": "RCM",
+            "Preferred Positions": "CAM",
+            "Nationality": "Portugal"
+        },
+        {
+            "Age": "23",
+            "Name": "Renato Sanches",
+            "Number": "16",
+            "OVRPOT": [
+                "79",
+                "85"
+            ],
+            "Position": "LCM",
+            "Preferred Positions": "CMRM",
+            "Nationality": "Portugal"
+        },
+        {
+            "Age": "26",
+            "Name": "Bernardo Silva",
+            "Number": "10",
+            "OVRPOT": [
+                "86",
+                "87"
+            ],
+            "Position": "RW",
+            "Preferred Positions": "CAMCMRW",
+            "Nationality": "Portugal"
+        },
+        {
+            "Age": "36",
+            "Name": "Cristiano Ronaldo",
+            "Number": "7",
+            "OVRPOT": [
+                "92",
+                "92"
+            ],
+            "Position": "ST",
+            "Preferred Positions": "STLW",
+            "Nationality": "Portugal"
+        },
+        {
+            "Age": "24",
+            "Name": "Diogo Jota",
+            "Number": "21",
+            "OVRPOT": [
+                "82",
+                "87"
+            ],
+            "Position": "LW",
+            "Preferred Positions": "LWSTCF",
+            "Nationality": "Portugal"
+        },
+        {
+            "Age": "24",
+            "Name": "Rúben Neves",
+            "Number": "18",
+            "OVRPOT": [
+                "82",
+                "87"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CM",
+            "Nationality": "Portugal"
+        },
+        {
+            "Age": "25",
+            "Name": "Palhinha",
+            "Number": "26",
+            "OVRPOT": [
+                "82",
+                "87"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CDMCM",
+            "Nationality": "Portugal"
+        },
+        {
+            "Age": "27",
+            "Name": "Nélson Semedo",
+            "Number": "2",
+            "OVRPOT": [
+                "81",
+                "82"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "RWBRB",
+            "Nationality": "Portugal"
+        },
+        {
+            "Age": "37",
+            "Name": "José Fonte",
+            "Number": "6",
+            "OVRPOT": [
+                "80",
+                "80"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CB",
+            "Nationality": "Portugal"
+        },
+        {
+            "Age": "30",
+            "Name": "Anthony Lopes",
+            "Number": "12",
+            "OVRPOT": [
+                "83",
+                "84"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "GK",
+            "Nationality": "Portugal"
+        },
+        {
+            "Age": "25",
+            "Name": "André Silva",
+            "Number": "9",
+            "OVRPOT": [
+                "84",
+                "85"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "ST",
+            "Nationality": "Portugal"
+        },
+        {
+            "Age": "21",
+            "Name": "João Félix",
+            "Number": "23",
+            "OVRPOT": [
+                "83",
+                "93"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CFST",
+            "Nationality": "Portugal"
+        },
+        {
+            "Age": "28",
+            "Name": "Rafa",
+            "Number": "15",
+            "OVRPOT": [
+                "83",
+                "83"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "RMLM",
+            "Nationality": "Portugal"
+        },
+        {
+            "Age": "34",
+            "Name": "João Moutinho",
+            "Number": "8",
+            "OVRPOT": [
+                "81",
+                "81"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CM",
+            "Nationality": "Portugal"
+        },
+        {
+            "Age": "29",
+            "Name": "Sérgio Oliveira",
+            "Number": "24",
+            "OVRPOT": [
+                "80",
+                "80"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CM",
+            "Nationality": "Portugal"
+        },
+        {
+            "Age": "18",
+            "Name": "Nuno Mendes",
+            "Number": "25",
+            "OVRPOT": [
+                "77",
+                "87"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "LWBLM",
+            "Nationality": "Portugal"
+        },
+        {
+            "Age": "27",
+            "Name": "Rui Silva",
+            "Number": "22",
+            "OVRPOT": [
+                "80",
+                "84"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "GK",
+            "Nationality": "Portugal"
+        }
+    ],
+    "France": [
+        {
+            "Age": "34",
+            "Name": "Hugo Lloris",
+            "Number": "1",
+            "OVRPOT": [
+                "87",
+                "87"
+            ],
+            "Position": "GK",
+            "Preferred Positions": "GK",
+            "Nationality": "France"
+        },
+        {
+            "Age": "25",
+            "Name": "Benjamin Pavard",
+            "Number": "2",
+            "OVRPOT": [
+                "79",
+                "82"
+            ],
+            "Position": "RB",
+            "Preferred Positions": "RBCB",
+            "Nationality": "France"
+        },
+        {
+            "Age": "28",
+            "Name": "Raphaël Varane",
+            "Number": "4",
+            "OVRPOT": [
+                "85",
+                "87"
+            ],
+            "Position": "RCB",
+            "Preferred Positions": "CB",
+            "Nationality": "France"
+        },
+        {
+            "Age": "25",
+            "Name": "Presnel Kimpembe",
+            "Number": "3",
+            "OVRPOT": [
+                "83",
+                "87"
+            ],
+            "Position": "LCB",
+            "Preferred Positions": "CB",
+            "Nationality": "France"
+        },
+        {
+            "Age": "25",
+            "Name": "Lucas Hernández",
+            "Number": "21",
+            "OVRPOT": [
+                "83",
+                "86"
+            ],
+            "Position": "LB",
+            "Preferred Positions": "LBCB",
+            "Nationality": "France"
+        },
+        {
+            "Age": "30",
+            "Name": "N'Golo Kanté",
+            "Number": "13",
+            "OVRPOT": [
+                "88",
+                "88"
+            ],
+            "Position": "CDM",
+            "Preferred Positions": "CDMCM",
+            "Nationality": "France"
+        },
+        {
+            "Age": "28",
+            "Name": "Paul Pogba",
+            "Number": "6",
+            "OVRPOT": [
+                "86",
+                "86"
+            ],
+            "Position": "RCM",
+            "Preferred Positions": "CMLM",
+            "Nationality": "France"
+        },
+        {
+            "Age": "26",
+            "Name": "Adrien Rabiot",
+            "Number": "14",
+            "OVRPOT": [
+                "81",
+                "82"
+            ],
+            "Position": "LCM",
+            "Preferred Positions": "CMCDM",
+            "Nationality": "France"
+        },
+        {
+            "Age": "30",
+            "Name": "Antoine Griezmann",
+            "Number": "7",
+            "OVRPOT": [
+                "86",
+                "86"
+            ],
+            "Position": "RW",
+            "Preferred Positions": "STLWRW",
+            "Nationality": "France"
+        },
+        {
+            "Age": "33",
+            "Name": "Karim Benzema",
+            "Number": "19",
+            "OVRPOT": [
+                "89",
+                "89"
+            ],
+            "Position": "ST",
+            "Preferred Positions": "CFST",
+            "Nationality": "France"
+        },
+        {
+            "Age": "22",
+            "Name": "Kylian Mbappé",
+            "Number": "10",
+            "OVRPOT": [
+                "90",
+                "95"
+            ],
+            "Position": "LW",
+            "Preferred Positions": "STLW",
+            "Nationality": "France"
+        },
+        {
+            "Age": "24",
+            "Name": "Kingsley Coman",
+            "Number": "20",
+            "OVRPOT": [
+                "86",
+                "89"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "LMRMLW",
+            "Nationality": "France"
+        },
+        {
+            "Age": "26",
+            "Name": "Corentin Tolisso",
+            "Number": "12",
+            "OVRPOT": [
+                "80",
+                "80"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CMCDM",
+            "Nationality": "France"
+        },
+        {
+            "Age": "27",
+            "Name": "Lucas Digne",
+            "Number": "18",
+            "OVRPOT": [
+                "84",
+                "85"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "LB",
+            "Nationality": "France"
+        },
+        {
+            "Age": "25",
+            "Name": "Clément Lenglet",
+            "Number": "5",
+            "OVRPOT": [
+                "83",
+                "87"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CB",
+            "Nationality": "France"
+        },
+        {
+            "Age": "36",
+            "Name": "Steve Mandanda",
+            "Number": "16",
+            "OVRPOT": [
+                "82",
+                "82"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "GK",
+            "Nationality": "France"
+        },
+        {
+            "Age": "24",
+            "Name": "Ousmane Dembélé",
+            "Number": "11",
+            "OVRPOT": [
+                "83",
+                "89"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "RWRM",
+            "Nationality": "France"
+        },
+        {
+            "Age": "34",
+            "Name": "Olivier Giroud",
+            "Number": "9",
+            "OVRPOT": [
+                "79",
+                "79"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "ST",
+            "Nationality": "France"
+        },
+        {
+            "Age": "25",
+            "Name": "Thomas Lemar",
+            "Number": "8",
+            "OVRPOT": [
+                "82",
+                "85"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "LMCMRM",
+            "Nationality": "France"
+        },
+        {
+            "Age": "30",
+            "Name": "Wissam Ben Yedder",
+            "Number": "22",
+            "OVRPOT": [
+                "84",
+                "84"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "ST",
+            "Nationality": "France"
+        },
+        {
+            "Age": "26",
+            "Name": "Kurt Zouma",
+            "Number": "15",
+            "OVRPOT": [
+                "81",
+                "84"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CB",
+            "Nationality": "France"
+        },
+        {
+            "Age": "26",
+            "Name": "Léo Dubois",
+            "Number": "24",
+            "OVRPOT": [
+                "78",
+                "80"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "RB",
+            "Nationality": "France"
+        },
+        {
+            "Age": "25",
+            "Name": "Mike Maignan",
+            "Number": "23",
+            "OVRPOT": [
+                "83",
+                "87"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "GK",
+            "Nationality": "France"
+        }
+    ],
+    "Finland": [
+        {
+            "Age": "31",
+            "Name": "Lukáš Hrádecký",
+            "Number": "1",
+            "OVRPOT": [
+                "83",
+                "83"
+            ],
+            "Position": "GK",
+            "Preferred Positions": "GK",
+            "Nationality": "Finland"
+        },
+        {
+            "Age": "28",
+            "Name": "Nikolai Alho",
+            "Number": "17",
+            "OVRPOT": [
+                "66",
+                "66"
+            ],
+            "Position": "RWB",
+            "Preferred Positions": "RBRW",
+            "Nationality": "Finland"
+        },
+        {
+            "Age": "32",
+            "Name": "Paulus Arajuuri",
+            "Number": "2",
+            "OVRPOT": [
+                "68",
+                "68"
+            ],
+            "Position": "RCB",
+            "Preferred Positions": "CB",
+            "Nationality": "Finland"
+        },
+        {
+            "Age": "23",
+            "Name": "Leo Väisänen",
+            "Number": "4",
+            "OVRPOT": [
+                "65",
+                "75"
+            ],
+            "Position": "CB",
+            "Preferred Positions": "CB",
+            "Nationality": "Finland"
+        },
+        {
+            "Age": "26",
+            "Name": "Daniel O'Shaughnessy",
+            "Number": "15",
+            "OVRPOT": [
+                "65",
+                "70"
+            ],
+            "Position": "LCB",
+            "Preferred Positions": "CB",
+            "Nationality": "Finland"
+        },
+        {
+            "Age": "24",
+            "Name": "Niko Hämäläinen",
+            "Number": "23",
+            "OVRPOT": [
+                "66",
+                "73"
+            ],
+            "Position": "LWB",
+            "Preferred Positions": "LWBLB",
+            "Nationality": "Finland"
+        },
+        {
+            "Age": "25",
+            "Name": "Glen Kamara",
+            "Number": "6",
+            "OVRPOT": [
+                "75",
+                "80"
+            ],
+            "Position": "RCM",
+            "Preferred Positions": "CM",
+            "Nationality": "Finland"
+        },
+        {
+            "Age": "34",
+            "Name": "Tim Sparv",
+            "Number": "14",
+            "OVRPOT": [
+                "68",
+                "68"
+            ],
+            "Position": "CM",
+            "Preferred Positions": "CDMCM",
+            "Nationality": "Finland"
+        },
+        {
+            "Age": "29",
+            "Name": "Rasmus Schüller",
+            "Number": "8",
+            "OVRPOT": [
+                "70",
+                "70"
+            ],
+            "Position": "LCM",
+            "Preferred Positions": "CDMCM",
+            "Nationality": "Finland"
+        },
+        {
+            "Age": "31",
+            "Name": "Teemu Pukki",
+            "Number": "10",
+            "OVRPOT": [
+                "76",
+                "76"
+            ],
+            "Position": "RS",
+            "Preferred Positions": "ST",
+            "Nationality": "Finland"
+        },
+        {
+            "Age": "26",
+            "Name": "Joel Pohjanpalo",
+            "Number": "20",
+            "OVRPOT": [
+                "72",
+                "74"
+            ],
+            "Position": "LS",
+            "Preferred Positions": "ST",
+            "Nationality": "Finland"
+        },
+        {
+            "Age": "21",
+            "Name": "Marcus Forss",
+            "Number": "9",
+            "OVRPOT": [
+                "68",
+                "76"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "STLW",
+            "Nationality": "Finland"
+        },
+        {
+            "Age": "22",
+            "Name": "Lassi Lappalainen",
+            "Number": "11",
+            "OVRPOT": [
+                "68",
+                "75"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "LMLWBST",
+            "Nationality": "Finland"
+        },
+        {
+            "Age": "30",
+            "Name": "Joni Kauko",
+            "Number": "19",
+            "OVRPOT": [
+                "64",
+                "64"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CM",
+            "Nationality": "Finland"
+        },
+        {
+            "Age": "31",
+            "Name": "Albin Granlund",
+            "Number": "3",
+            "OVRPOT": [
+                "65",
+                "65"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "RWBRBRM",
+            "Nationality": "Finland"
+        },
+        {
+            "Age": "28",
+            "Name": "Jesse Joronen",
+            "Number": "12",
+            "OVRPOT": [
+                "73",
+                "73"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "GK",
+            "Nationality": "Finland"
+        },
+        {
+            "Age": "23",
+            "Name": "Fredrik Jensen",
+            "Number": "7",
+            "OVRPOT": [
+                "71",
+                "78"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CAMRMLM",
+            "Nationality": "Finland"
+        },
+        {
+            "Age": "27",
+            "Name": "Thomas Lam",
+            "Number": "18",
+            "OVRPOT": [
+                "67",
+                "69"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CBCDM",
+            "Nationality": "Finland"
+        },
+        {
+            "Age": "34",
+            "Name": "Anssi Jaakkola",
+            "Number": "22",
+            "OVRPOT": [
+                "66",
+                "66"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "GK",
+            "Nationality": "Finland"
+        },
+        {
+            "Age": "27",
+            "Name": "Sauli Väisänen",
+            "Number": "21",
+            "OVRPOT": [
+                "66",
+                "68"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CB",
+            "Nationality": "Finland"
+        },
+        {
+            "Age": "22",
+            "Name": "Jasin Assehnoun",
+            "Number": "13",
+            "OVRPOT": [
+                "66",
+                "74"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "LWRW",
+            "Nationality": "Finland"
+        },
+        {
+            "Age": "31",
+            "Name": "Juhani Ojala",
+            "Number": "5",
+            "OVRPOT": [
+                "63",
+                "63"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CB",
+            "Nationality": "Finland"
+        },
+        {
+            "Age": "21",
+            "Name": "Onni Valakari",
+            "Number": "16",
+            "OVRPOT": [
+                "63",
+                "68"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CMCAM",
+            "Nationality": "Finland"
+        }
+    ],
+    "England": [
+        {
+            "Age": "29",
+            "Name": "Nick Pope",
+            "Number": "1",
+            "OVRPOT": [
+                "82",
+                "83"
+            ],
+            "Position": "GK",
+            "Preferred Positions": "GK",
+            "Nationality": "England"
+        },
+        {
+            "Age": "31",
+            "Name": "Kyle Walker",
+            "Number": "2",
+            "OVRPOT": [
+                "84",
+                "84"
+            ],
+            "Position": "RB",
+            "Preferred Positions": "RB",
+            "Nationality": "England"
+        },
+        {
+            "Age": "28",
+            "Name": "Conor Coady",
+            "Number": "15",
+            "OVRPOT": [
+                "79",
+                "81"
+            ],
+            "Position": "RCB",
+            "Preferred Positions": "CB",
+            "Nationality": "England"
+        },
+        {
+            "Age": "28",
+            "Name": "Tyrone Mings",
+            "Number": "19",
+            "OVRPOT": [
+                "78",
+                "80"
+            ],
+            "Position": "LCB",
+            "Preferred Positions": "CB",
+            "Nationality": "England"
+        },
+        {
+            "Age": "24",
+            "Name": "Ben Chilwell",
+            "Number": "3",
+            "OVRPOT": [
+                "82",
+                "86"
+            ],
+            "Position": "LB",
+            "Preferred Positions": "LWBLB",
+            "Nationality": "England"
+        },
+        {
+            "Age": "22",
+            "Name": "Declan Rice",
+            "Number": "4",
+            "OVRPOT": [
+                "81",
+                "86"
+            ],
+            "Position": "CDM",
+            "Preferred Positions": "CDMCM",
+            "Nationality": "England"
+        },
+        {
+            "Age": "30",
+            "Name": "Jordan Henderson",
+            "Number": "8",
+            "OVRPOT": [
+                "86",
+                "86"
+            ],
+            "Position": "RCM",
+            "Preferred Positions": "CDMCM",
+            "Nationality": "England"
+        },
+        {
+            "Age": "22",
+            "Name": "Mason Mount",
+            "Number": "18",
+            "OVRPOT": [
+                "82",
+                "88"
+            ],
+            "Position": "LCM",
+            "Preferred Positions": "CAMCMRW",
+            "Nationality": "England"
+        },
+        {
+            "Age": "21",
+            "Name": "Jadon Sancho",
+            "Number": "11",
+            "OVRPOT": [
+                "87",
+                "92"
+            ],
+            "Position": "RW",
+            "Preferred Positions": "RMCFLM",
+            "Nationality": "England"
+        },
+        {
+            "Age": "27",
+            "Name": "Harry Kane",
+            "Number": "9",
+            "OVRPOT": [
+                "89",
+                "90"
+            ],
+            "Position": "ST",
+            "Preferred Positions": "ST",
+            "Nationality": "England"
+        },
+        {
+            "Age": "26",
+            "Name": "Raheem Sterling",
+            "Number": "7",
+            "OVRPOT": [
+                "87",
+                "88"
+            ],
+            "Position": "LW",
+            "Preferred Positions": "LWRW",
+            "Nationality": "England"
+        },
+        {
+            "Age": "25",
+            "Name": "Jack Grealish",
+            "Number": "17",
+            "OVRPOT": [
+                "83",
+                "86"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "LWLMCAM",
+            "Nationality": "England"
+        },
+        {
+            "Age": "24",
+            "Name": "Dominic Calvert-Lewin",
+            "Number": "16",
+            "OVRPOT": [
+                "81",
+                "85"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "ST",
+            "Nationality": "England"
+        },
+        {
+            "Age": "25",
+            "Name": "Kalvin Phillips",
+            "Number": "6",
+            "OVRPOT": [
+                "79",
+                "83"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CDMCB",
+            "Nationality": "England"
+        },
+        {
+            "Age": "28",
+            "Name": "Michael Keane",
+            "Number": "14",
+            "OVRPOT": [
+                "81",
+                "82"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CB",
+            "Nationality": "England"
+        },
+        {
+            "Age": "27",
+            "Name": "Jordan Pickford",
+            "Number": "13",
+            "OVRPOT": [
+                "80",
+                "82"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "GK",
+            "Nationality": "England"
+        },
+        {
+            "Age": "23",
+            "Name": "Marcus Rashford",
+            "Number": "10",
+            "OVRPOT": [
+                "85",
+                "91"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "LMSTRM",
+            "Nationality": "England"
+        },
+        {
+            "Age": "21",
+            "Name": "Phil Foden",
+            "Number": "20",
+            "OVRPOT": [
+                "83",
+                "92"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CAMLWCM",
+            "Nationality": "England"
+        },
+        {
+            "Age": "27",
+            "Name": "Eric Dier",
+            "Number": "5",
+            "OVRPOT": [
+                "79",
+                "81"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CBCDM",
+            "Nationality": "England"
+        },
+        {
+            "Age": "26",
+            "Name": "James Ward-Prowse",
+            "Number": "23",
+            "OVRPOT": [
+                "80",
+                "83"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CM",
+            "Nationality": "England"
+        },
+        {
+            "Age": "30",
+            "Name": "Kieran Trippier",
+            "Number": "12",
+            "OVRPOT": [
+                "83",
+                "83"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "RBRWBRM",
+            "Nationality": "England"
+        },
+        {
+            "Age": "28",
+            "Name": "Danny Ings",
+            "Number": "21",
+            "OVRPOT": [
+                "82",
+                "82"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "ST",
+            "Nationality": "England"
+        },
+        {
+            "Age": "24",
+            "Name": "Dean Henderson",
+            "Number": "22",
+            "OVRPOT": [
+                "80",
+                "87"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "GK",
+            "Nationality": "England"
+        }
+    ],
+    "Italy": [
+        {
+            "Age": "22",
+            "Name": "Gianluigi Donnarumma",
+            "Number": "21",
+            "OVRPOT": [
+                "86",
+                "92"
+            ],
+            "Position": "GK",
+            "Preferred Positions": "GK",
+            "Nationality": "Italy"
+        },
+        {
+            "Age": "30",
+            "Name": "Alessandro Florenzi",
+            "Number": "24",
+            "OVRPOT": [
+                "80",
+                "80"
+            ],
+            "Position": "RB",
+            "Preferred Positions": "RB",
+            "Nationality": "Italy"
+        },
+        {
+            "Age": "34",
+            "Name": "Leonardo Bonucci",
+            "Number": "19",
+            "OVRPOT": [
+                "84",
+                "84"
+            ],
+            "Position": "RCB",
+            "Preferred Positions": "CB",
+            "Nationality": "Italy"
+        },
+        {
+            "Age": "36",
+            "Name": "Giorgio Chiellini",
+            "Number": "3",
+            "OVRPOT": [
+                "86",
+                "86"
+            ],
+            "Position": "LCB",
+            "Preferred Positions": "CB",
+            "Nationality": "Italy"
+        },
+        {
+            "Age": "28",
+            "Name": "Leonardo Spinazzola",
+            "Number": "4",
+            "OVRPOT": [
+                "80",
+                "80"
+            ],
+            "Position": "LB",
+            "Preferred Positions": "LMLBRB",
+            "Nationality": "Italy"
+        },
+        {
+            "Age": "24",
+            "Name": "Nicolò Barella",
+            "Number": "18",
+            "OVRPOT": [
+                "82",
+                "89"
+            ],
+            "Position": "RCM",
+            "Preferred Positions": "CM",
+            "Nationality": "Italy"
+        },
+        {
+            "Age": "29",
+            "Name": "Jorginho",
+            "Number": "8",
+            "OVRPOT": [
+                "83",
+                "83"
+            ],
+            "Position": "CM",
+            "Preferred Positions": "CMCDM",
+            "Nationality": "Italy"
+        },
+        {
+            "Age": "28",
+            "Name": "Marco Verratti",
+            "Number": "6",
+            "OVRPOT": [
+                "86",
+                "86"
+            ],
+            "Position": "LCM",
+            "Preferred Positions": "CMCDM",
+            "Nationality": "Italy"
+        },
+        {
+            "Age": "26",
+            "Name": "Domenico Berardi",
+            "Number": "11",
+            "OVRPOT": [
+                "81",
+                "82"
+            ],
+            "Position": "RW",
+            "Preferred Positions": "RMRW",
+            "Nationality": "Italy"
+        },
+        {
+            "Age": "31",
+            "Name": "Ciro Immobile",
+            "Number": "17",
+            "OVRPOT": [
+                "87",
+                "87"
+            ],
+            "Position": "ST",
+            "Preferred Positions": "ST",
+            "Nationality": "Italy"
+        },
+        {
+            "Age": "30",
+            "Name": "Lorenzo Insigne",
+            "Number": "10",
+            "OVRPOT": [
+                "85",
+                "85"
+            ],
+            "Position": "LW",
+            "Preferred Positions": "LWCF",
+            "Nationality": "Italy"
+        },
+        {
+            "Age": "27",
+            "Name": "Andrea Belotti",
+            "Number": "9",
+            "OVRPOT": [
+                "81",
+                "82"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "ST",
+            "Nationality": "Italy"
+        },
+        {
+            "Age": "27",
+            "Name": "Federico Bernardeschi",
+            "Number": "20",
+            "OVRPOT": [
+                "79",
+                "79"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CAMRM",
+            "Nationality": "Italy"
+        },
+        {
+            "Age": "33",
+            "Name": "Francesco Acerbi",
+            "Number": "15",
+            "OVRPOT": [
+                "83",
+                "83"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CB",
+            "Nationality": "Italy"
+        },
+        {
+            "Age": "27",
+            "Name": "Giovanni Di Lorenzo",
+            "Number": "2",
+            "OVRPOT": [
+                "77",
+                "77"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "RB",
+            "Nationality": "Italy"
+        },
+        {
+            "Age": "34",
+            "Name": "Salvatore Sirigu",
+            "Number": "1",
+            "OVRPOT": [
+                "83",
+                "83"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "GK",
+            "Nationality": "Italy"
+        },
+        {
+            "Age": "23",
+            "Name": "Manuel Locatelli",
+            "Number": "5",
+            "OVRPOT": [
+                "80",
+                "86"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CDMCM",
+            "Nationality": "Italy"
+        },
+        {
+            "Age": "24",
+            "Name": "Lorenzo Pellegrini",
+            "Number": "7",
+            "OVRPOT": [
+                "79",
+                "83"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CAMCMCDM",
+            "Nationality": "Italy"
+        },
+        {
+            "Age": "26",
+            "Name": "Bryan Cristante",
+            "Number": "16",
+            "OVRPOT": [
+                "78",
+                "79"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CDMCBCM",
+            "Nationality": "Italy"
+        },
+        {
+            "Age": "21",
+            "Name": "Giacomo Raspadori",
+            "Number": "22",
+            "OVRPOT": [
+                "64",
+                "78"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "ST",
+            "Nationality": "Italy"
+        },
+        {
+            "Age": "24",
+            "Name": "Alex Meret",
+            "Number": "26",
+            "OVRPOT": [
+                "78",
+                "86"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "GK",
+            "Nationality": "Italy"
+        },
+        {
+            "Age": "26",
+            "Name": "Emerson",
+            "Number": "13",
+            "OVRPOT": [
+                "78",
+                "81"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "LB",
+            "Nationality": "Italy"
+        },
+        {
+            "Age": "22",
+            "Name": "Alessandro Bastoni",
+            "Number": "23",
+            "OVRPOT": [
+                "78",
+                "87"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CB",
+            "Nationality": "Italy"
+        }
+    ],
+    "Denmark": [
+        {
+            "Age": "34",
+            "Name": "Kasper Schmeichel",
+            "Number": "1",
+            "OVRPOT": [
+                "85",
+                "85"
+            ],
+            "Position": "GK",
+            "Preferred Positions": "GK",
+            "Nationality": "Denmark"
+        },
+        {
+            "Age": "32",
+            "Name": "Daniel Wass",
+            "Number": "3",
+            "OVRPOT": [
+                "80",
+                "80"
+            ],
+            "Position": "RB",
+            "Preferred Positions": "RBRMCM",
+            "Nationality": "Denmark"
+        },
+        {
+            "Age": "32",
+            "Name": "Simon Kjær",
+            "Number": "4",
+            "OVRPOT": [
+                "82",
+                "82"
+            ],
+            "Position": "RCB",
+            "Preferred Positions": "CB",
+            "Nationality": "Denmark"
+        },
+        {
+            "Age": "25",
+            "Name": "Andreas Christensen",
+            "Number": "6",
+            "OVRPOT": [
+                "80",
+                "85"
+            ],
+            "Position": "LCB",
+            "Preferred Positions": "CB",
+            "Nationality": "Denmark"
+        },
+        {
+            "Age": "24",
+            "Name": "Joakim Mæhle",
+            "Number": "2",
+            "OVRPOT": [
+                "76",
+                "81"
+            ],
+            "Position": "LB",
+            "Preferred Positions": "RMRB",
+            "Nationality": "Denmark"
+        },
+        {
+            "Age": "25",
+            "Name": "Pierre-Emile Højbjerg",
+            "Number": "23",
+            "OVRPOT": [
+                "83",
+                "87"
+            ],
+            "Position": "RCM",
+            "Preferred Positions": "CDMCM",
+            "Nationality": "Denmark"
+        },
+        {
+            "Age": "29",
+            "Name": "Thomas Delaney",
+            "Number": "8",
+            "OVRPOT": [
+                "82",
+                "82"
+            ],
+            "Position": "LCM",
+            "Preferred Positions": "CDMCM",
+            "Nationality": "Denmark"
+        },
+        {
+            "Age": "29",
+            "Name": "Christian Eriksen",
+            "Number": "10",
+            "OVRPOT": [
+                "83",
+                "83"
+            ],
+            "Position": "CAM",
+            "Preferred Positions": "CAMCM",
+            "Nationality": "Denmark"
+        },
+        {
+            "Age": "26",
+            "Name": "Yussuf Poulsen",
+            "Number": "20",
+            "OVRPOT": [
+                "78",
+                "80"
+            ],
+            "Position": "RW",
+            "Preferred Positions": "ST",
+            "Nationality": "Denmark"
+        },
+        {
+            "Age": "22",
+            "Name": "Jonas Wind",
+            "Number": "18",
+            "OVRPOT": [
+                "72",
+                "80"
+            ],
+            "Position": "ST",
+            "Preferred Positions": "STCF",
+            "Nationality": "Denmark"
+        },
+        {
+            "Age": "30",
+            "Name": "Martin Braithwaite",
+            "Number": "9",
+            "OVRPOT": [
+                "76",
+                "76"
+            ],
+            "Position": "LW",
+            "Preferred Positions": "ST",
+            "Nationality": "Denmark"
+        },
+        {
+            "Age": "23",
+            "Name": "Kasper Dolberg",
+            "Number": "14",
+            "OVRPOT": [
+                "78",
+                "82"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "ST",
+            "Nationality": "Denmark"
+        },
+        {
+            "Age": "35",
+            "Name": "Lasse Schøne",
+            "Number": "12",
+            "OVRPOT": [
+                "75",
+                "75"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CMCDM",
+            "Nationality": "Denmark"
+        },
+        {
+            "Age": "27",
+            "Name": "Christian Nørgaard",
+            "Number": "19",
+            "OVRPOT": [
+                "73",
+                "76"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CDMCM",
+            "Nationality": "Denmark"
+        },
+        {
+            "Age": "25",
+            "Name": "Joachim Andersen",
+            "Number": "13",
+            "OVRPOT": [
+                "77",
+                "83"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CB",
+            "Nationality": "Denmark"
+        },
+        {
+            "Age": "28",
+            "Name": "Frederik Rønnow",
+            "Number": "22",
+            "OVRPOT": [
+                "75",
+                "76"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "GK",
+            "Nationality": "Denmark"
+        },
+        {
+            "Age": "20",
+            "Name": "Mikkel Damsgaard",
+            "Number": "11",
+            "OVRPOT": [
+                "74",
+                "84"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "LMLW",
+            "Nationality": "Denmark"
+        },
+        {
+            "Age": "25",
+            "Name": "Mathias Jensen",
+            "Number": "15",
+            "OVRPOT": [
+                "73",
+                "77"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CM",
+            "Nationality": "Denmark"
+        },
+        {
+            "Age": "29",
+            "Name": "Nicolai Boilesen",
+            "Number": "5",
+            "OVRPOT": [
+                "71",
+                "71"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "LBCB",
+            "Nationality": "Denmark"
+        },
+        {
+            "Age": "25",
+            "Name": "Robert Skov",
+            "Number": "7",
+            "OVRPOT": [
+                "74",
+                "79"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "LWBRMLB",
+            "Nationality": "Denmark"
+        },
+        {
+            "Age": "30",
+            "Name": "Jens Stryger Larsen",
+            "Number": "17",
+            "OVRPOT": [
+                "75",
+                "75"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "RM",
+            "Nationality": "Denmark"
+        },
+        {
+            "Age": "28",
+            "Name": "Andreas Cornelius",
+            "Number": "21",
+            "OVRPOT": [
+                "73",
+                "73"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "ST",
+            "Nationality": "Denmark"
+        },
+        {
+            "Age": "32",
+            "Name": "Jonas Lössl",
+            "Number": "16",
+            "OVRPOT": [
+                "71",
+                "71"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "GK",
+            "Nationality": "Denmark"
+        }
+    ],
+    "Spain": [
+        {
+            "Age": "23",
+            "Name": "Unai Simón",
+            "Number": "23",
+            "OVRPOT": [
+                "80",
+                "85"
+            ],
+            "Position": "GK",
+            "Preferred Positions": "GK",
+            "Nationality": "Spain"
+        },
+        {
+            "Age": "26",
+            "Name": "Marcos Llorente",
+            "Number": "6",
+            "OVRPOT": [
+                "84",
+                "87"
+            ],
+            "Position": "RB",
+            "Preferred Positions": "CMRMST",
+            "Nationality": "Spain"
+        },
+        {
+            "Age": "20",
+            "Name": "Eric García",
+            "Number": "12",
+            "OVRPOT": [
+                "75",
+                "85"
+            ],
+            "Position": "RCB",
+            "Preferred Positions": "CB",
+            "Nationality": "Spain"
+        },
+        {
+            "Age": "27",
+            "Name": "Aymeric Laporte",
+            "Number": "24",
+            "OVRPOT": [
+                "86",
+                "89"
+            ],
+            "Position": "LCB",
+            "Preferred Positions": "CB",
+            "Nationality": "Spain"
+        },
+        {
+            "Age": "32",
+            "Name": "Jordi Alba",
+            "Number": "18",
+            "OVRPOT": [
+                "86",
+                "86"
+            ],
+            "Position": "LB",
+            "Preferred Positions": "LBLM",
+            "Nationality": "Spain"
+        },
+        {
+            "Age": "32",
+            "Name": "Sergio Busquets",
+            "Number": "5",
+            "OVRPOT": [
+                "86",
+                "86"
+            ],
+            "Position": "CDM",
+            "Preferred Positions": "CDMCM",
+            "Nationality": "Spain"
+        },
+        {
+            "Age": "29",
+            "Name": "Koke",
+            "Number": "8",
+            "OVRPOT": [
+                "85",
+                "85"
+            ],
+            "Position": "RCM",
+            "Preferred Positions": "CMCDM",
+            "Nationality": "Spain"
+        },
+        {
+            "Age": "18",
+            "Name": "Pedri",
+            "Number": "26",
+            "OVRPOT": [
+                "77",
+                "91"
+            ],
+            "Position": "LCM",
+            "Preferred Positions": "CMLMCAM",
+            "Nationality": "Spain"
+        },
+        {
+            "Age": "21",
+            "Name": "Ferran Torres",
+            "Number": "11",
+            "OVRPOT": [
+                "81",
+                "89"
+            ],
+            "Position": "RW",
+            "Preferred Positions": "RWLWST",
+            "Nationality": "Spain"
+        },
+        {
+            "Age": "29",
+            "Name": "Gerard Moreno",
+            "Number": "9",
+            "OVRPOT": [
+                "84",
+                "84"
+            ],
+            "Position": "ST",
+            "Preferred Positions": "STRMRW",
+            "Nationality": "Spain"
+        },
+        {
+            "Age": "23",
+            "Name": "Dani Olmo",
+            "Number": "19",
+            "OVRPOT": [
+                "80",
+                "87"
+            ],
+            "Position": "LW",
+            "Preferred Positions": "CAMCF",
+            "Nationality": "Spain"
+        },
+        {
+            "Age": "24",
+            "Name": "Rodri",
+            "Number": "16",
+            "OVRPOT": [
+                "86",
+                "89"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CDM",
+            "Nationality": "Spain"
+        },
+        {
+            "Age": "31",
+            "Name": "Azpilicueta",
+            "Number": "2",
+            "OVRPOT": [
+                "83",
+                "83"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "RBCBRWB",
+            "Nationality": "Spain"
+        },
+        {
+            "Age": "26",
+            "Name": "Gayà",
+            "Number": "14",
+            "OVRPOT": [
+                "83",
+                "88"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "LBLMLWB",
+            "Nationality": "Spain"
+        },
+        {
+            "Age": "24",
+            "Name": "Pau Torres",
+            "Number": "4",
+            "OVRPOT": [
+                "80",
+                "86"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CB",
+            "Nationality": "Spain"
+        },
+        {
+            "Age": "30",
+            "Name": "De Gea",
+            "Number": "1",
+            "OVRPOT": [
+                "86",
+                "86"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "GK",
+            "Nationality": "Spain"
+        },
+        {
+            "Age": "28",
+            "Name": "Morata",
+            "Number": "7",
+            "OVRPOT": [
+                "83",
+                "83"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "ST",
+            "Nationality": "Spain"
+        },
+        {
+            "Age": "30",
+            "Name": "Thiago",
+            "Number": "10",
+            "OVRPOT": [
+                "85",
+                "85"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CMCDM",
+            "Nationality": "Spain"
+        },
+        {
+            "Age": "24",
+            "Name": "Oyarzabal",
+            "Number": "21",
+            "OVRPOT": [
+                "84",
+                "89"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "LW",
+            "Nationality": "Spain"
+        },
+        {
+            "Age": "25",
+            "Name": "Fabián",
+            "Number": "17",
+            "OVRPOT": [
+                "82",
+                "86"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CM",
+            "Nationality": "Spain"
+        },
+        {
+            "Age": "29",
+            "Name": "Pablo Sarabia",
+            "Number": "22",
+            "OVRPOT": [
+                "80",
+                "80"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "RWCAM",
+            "Nationality": "Spain"
+        },
+        {
+            "Age": "25",
+            "Name": "Adama Traoré",
+            "Number": "20",
+            "OVRPOT": [
+                "78",
+                "81"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "RWRWB",
+            "Nationality": "Spain"
+        },
+        {
+            "Age": "23",
+            "Name": "Robert Sanchéz",
+            "Number": "13",
+            "OVRPOT": [
+                "72",
+                "80"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "GK",
+            "Nationality": "Spain"
+        }
+    ],
+    "Belgium": [
+        {
+            "Age": "29",
+            "Name": "Thibaut Courtois",
+            "Number": "1",
+            "OVRPOT": [
+                "89",
+                "91"
+            ],
+            "Position": "GK",
+            "Preferred Positions": "GK",
+            "Nationality": "Belgium"
+        },
+        {
+            "Age": "32",
+            "Name": "Toby Alderweireld",
+            "Number": "2",
+            "OVRPOT": [
+                "84",
+                "84"
+            ],
+            "Position": "RCB",
+            "Preferred Positions": "CB",
+            "Nationality": "Belgium"
+        },
+        {
+            "Age": "25",
+            "Name": "Jason Denayer",
+            "Number": "4",
+            "OVRPOT": [
+                "80",
+                "83"
+            ],
+            "Position": "CB",
+            "Preferred Positions": "CB",
+            "Nationality": "Belgium"
+        },
+        {
+            "Age": "34",
+            "Name": "Jan Vertonghen",
+            "Number": "5",
+            "OVRPOT": [
+                "81",
+                "81"
+            ],
+            "Position": "LCB",
+            "Preferred Positions": "CB",
+            "Nationality": "Belgium"
+        },
+        {
+            "Age": "29",
+            "Name": "Thomas Meunier",
+            "Number": "15",
+            "OVRPOT": [
+                "76",
+                "76"
+            ],
+            "Position": "RM",
+            "Preferred Positions": "RBRM",
+            "Nationality": "Belgium"
+        },
+        {
+            "Age": "29",
+            "Name": "Kevin De Bruyne",
+            "Number": "7",
+            "OVRPOT": [
+                "91",
+                "91"
+            ],
+            "Position": "RCM",
+            "Preferred Positions": "CMCAMCF",
+            "Nationality": "Belgium"
+        },
+        {
+            "Age": "24",
+            "Name": "Youri Tielemans",
+            "Number": "8",
+            "OVRPOT": [
+                "83",
+                "86"
+            ],
+            "Position": "LCM",
+            "Preferred Positions": "CMCDM",
+            "Nationality": "Belgium"
+        },
+        {
+            "Age": "28",
+            "Name": "Thorgan Hazard",
+            "Number": "20",
+            "OVRPOT": [
+                "83",
+                "83"
+            ],
+            "Position": "LM",
+            "Preferred Positions": "LMCF",
+            "Nationality": "Belgium"
+        },
+        {
+            "Age": "34",
+            "Name": "Dries Mertens",
+            "Number": "14",
+            "OVRPOT": [
+                "85",
+                "85"
+            ],
+            "Position": "RF",
+            "Preferred Positions": "CFSTCAM",
+            "Nationality": "Belgium"
+        },
+        {
+            "Age": "30",
+            "Name": "Eden Hazard",
+            "Number": "10",
+            "OVRPOT": [
+                "86",
+                "86"
+            ],
+            "Position": "LF",
+            "Preferred Positions": "LW",
+            "Nationality": "Belgium"
+        },
+        {
+            "Age": "28",
+            "Name": "Romelu Lukaku",
+            "Number": "9",
+            "OVRPOT": [
+                "86",
+                "86"
+            ],
+            "Position": "ST",
+            "Preferred Positions": "ST",
+            "Nationality": "Belgium"
+        },
+        {
+            "Age": "27",
+            "Name": "Yannick Carrasco",
+            "Number": "11",
+            "OVRPOT": [
+                "83",
+                "83"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "LM",
+            "Nationality": "Belgium"
+        },
+        {
+            "Age": "26",
+            "Name": "Leandro Trossard",
+            "Number": "22",
+            "OVRPOT": [
+                "77",
+                "78"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "LMLWST",
+            "Nationality": "Belgium"
+        },
+        {
+            "Age": "26",
+            "Name": "Leander Dendoncker",
+            "Number": "16",
+            "OVRPOT": [
+                "77",
+                "80"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CMCB",
+            "Nationality": "Belgium"
+        },
+        {
+            "Age": "35",
+            "Name": "Thomas Vermaelen",
+            "Number": "3",
+            "OVRPOT": [
+                "74",
+                "74"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CB",
+            "Nationality": "Belgium"
+        },
+        {
+            "Age": "33",
+            "Name": "Simon Mignolet",
+            "Number": "12",
+            "OVRPOT": [
+                "81",
+                "81"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "GK",
+            "Nationality": "Belgium"
+        },
+        {
+            "Age": "27",
+            "Name": "Michy Batshuayi",
+            "Number": "23",
+            "OVRPOT": [
+                "76",
+                "77"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "ST",
+            "Nationality": "Belgium"
+        },
+        {
+            "Age": "25",
+            "Name": "Timothy Castagne",
+            "Number": "21",
+            "OVRPOT": [
+                "79",
+                "82"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "RBRMLB",
+            "Nationality": "Belgium"
+        },
+        {
+            "Age": "29",
+            "Name": "Matz Sels",
+            "Number": "13",
+            "OVRPOT": [
+                "78",
+                "80"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "GK",
+            "Nationality": "Belgium"
+        },
+        {
+            "Age": "30",
+            "Name": "Christian Benteke",
+            "Number": "18",
+            "OVRPOT": [
+                "74",
+                "74"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "ST",
+            "Nationality": "Belgium"
+        },
+        {
+            "Age": "32",
+            "Name": "Axel Witsel",
+            "Number": "6",
+            "OVRPOT": [
+                "83",
+                "83"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CDMCM",
+            "Nationality": "Belgium"
+        },
+        {
+            "Age": "27",
+            "Name": "Dennis Praet",
+            "Number": "19",
+            "OVRPOT": [
+                "78",
+                "78"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CMRM",
+            "Nationality": "Belgium"
+        },
+        {
+            "Age": "30",
+            "Name": "Dedryck Boyata",
+            "Number": "17",
+            "OVRPOT": [
+                "78",
+                "78"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CB",
+            "Nationality": "Belgium"
+        }
+    ],
+    "Czech Republic": [
+        {
+            "Age": "32",
+            "Name": "Tomáš Vaclík",
+            "Number": "1",
+            "OVRPOT": [
+                "81",
+                "81"
+            ],
+            "Position": "GK",
+            "Preferred Positions": "GK",
+            "Nationality": "Czech Republic"
+        },
+        {
+            "Age": "28",
+            "Name": "Vladimír Coufal",
+            "Number": "5",
+            "OVRPOT": [
+                "79",
+                "79"
+            ],
+            "Position": "RB",
+            "Preferred Positions": "RBRWB",
+            "Nationality": "Czech Republic"
+        },
+        {
+            "Age": "31",
+            "Name": "Ondřej Čelůstka",
+            "Number": "3",
+            "OVRPOT": [
+                "74",
+                "74"
+            ],
+            "Position": "RCB",
+            "Preferred Positions": "CB",
+            "Nationality": "Czech Republic"
+        },
+        {
+            "Age": "20",
+            "Name": "David Zima",
+            "Number": "4",
+            "OVRPOT": [
+                "74",
+                "81"
+            ],
+            "Position": "LCB",
+            "Preferred Positions": "CB",
+            "Nationality": "Czech Republic"
+        },
+        {
+            "Age": "30",
+            "Name": "Jan Bořil",
+            "Number": "18",
+            "OVRPOT": [
+                "78",
+                "78"
+            ],
+            "Position": "LB",
+            "Preferred Positions": "LBRB",
+            "Nationality": "Czech Republic"
+        },
+        {
+            "Age": "26",
+            "Name": "Tomáš Souček",
+            "Number": "15",
+            "OVRPOT": [
+                "82",
+                "86"
+            ],
+            "Position": "RDM",
+            "Preferred Positions": "CDMCM",
+            "Nationality": "Czech Republic"
+        },
+        {
+            "Age": "23",
+            "Name": "Alex Král",
+            "Number": "21",
+            "OVRPOT": [
+                "75",
+                "83"
+            ],
+            "Position": "LDM",
+            "Preferred Positions": "CDMCM",
+            "Nationality": "Czech Republic"
+        },
+        {
+            "Age": "28",
+            "Name": "Lukáš Masopust",
+            "Number": "12",
+            "OVRPOT": [
+                "76",
+                "76"
+            ],
+            "Position": "RM",
+            "Preferred Positions": "RMRB",
+            "Nationality": "Czech Republic"
+        },
+        {
+            "Age": "25",
+            "Name": "Jakub Jankto",
+            "Number": "14",
+            "OVRPOT": [
+                "74",
+                "77"
+            ],
+            "Position": "LM",
+            "Preferred Positions": "LMCM",
+            "Nationality": "Czech Republic"
+        },
+        {
+            "Age": "30",
+            "Name": "Vladimír Darida",
+            "Number": "8",
+            "OVRPOT": [
+                "76",
+                "76"
+            ],
+            "Position": "CAM",
+            "Preferred Positions": "CMCAMCDM",
+            "Nationality": "Czech Republic"
+        },
+        {
+            "Age": "25",
+            "Name": "Patrik Schick",
+            "Number": "19",
+            "OVRPOT": [
+                "78",
+                "82"
+            ],
+            "Position": "ST",
+            "Preferred Positions": "ST",
+            "Nationality": "Czech Republic"
+        },
+        {
+            "Age": "18",
+            "Name": "Adam Hložek",
+            "Number": "13",
+            "OVRPOT": [
+                "74",
+                "87"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "STLMRM",
+            "Nationality": "Czech Republic"
+        },
+        {
+            "Age": "24",
+            "Name": "Lukas Provod",
+            "Number": "7",
+            "OVRPOT": [
+                "77",
+                "82"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "LMLBCM",
+            "Nationality": "Czech Republic"
+        },
+        {
+            "Age": "28",
+            "Name": "Tomáš Holeš",
+            "Number": "6",
+            "OVRPOT": [
+                "76",
+                "77"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CDMRBCB",
+            "Nationality": "Czech Republic"
+        },
+        {
+            "Age": "29",
+            "Name": "Pavel Kadeřábek",
+            "Number": "2",
+            "OVRPOT": [
+                "79",
+                "79"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "RWBRBRM",
+            "Nationality": "Czech Republic"
+        },
+        {
+            "Age": "29",
+            "Name": "Jiří Pavlenka",
+            "Number": "23",
+            "OVRPOT": [
+                "80",
+                "82"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "GK",
+            "Nationality": "Czech Republic"
+        },
+        {
+            "Age": "28",
+            "Name": "Michael Krmenčík",
+            "Number": "11",
+            "OVRPOT": [
+                "72",
+                "72"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "ST",
+            "Nationality": "Czech Republic"
+        },
+        {
+            "Age": "32",
+            "Name": "Tomáš Pekhart",
+            "Number": "20",
+            "OVRPOT": [
+                "70",
+                "70"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "ST",
+            "Nationality": "Czech Republic"
+        },
+        {
+            "Age": "25",
+            "Name": "Lukáš Kalvach",
+            "Number": "17",
+            "OVRPOT": [
+                "75",
+                "80"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CDMCM",
+            "Nationality": "Czech Republic"
+        },
+        {
+            "Age": "30",
+            "Name": "Filip Novák",
+            "Number": "22",
+            "OVRPOT": [
+                "77",
+                "77"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "LB",
+            "Nationality": "Czech Republic"
+        },
+        {
+            "Age": "29",
+            "Name": "Matěj Vydra",
+            "Number": "9",
+            "OVRPOT": [
+                "74",
+                "74"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CFCAMST",
+            "Nationality": "Czech Republic"
+        },
+        {
+            "Age": "26",
+            "Name": "Antonín Barák",
+            "Number": "10",
+            "OVRPOT": [
+                "78",
+                "81"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CFCM",
+            "Nationality": "Czech Republic"
+        },
+        {
+            "Age": "26",
+            "Name": "Ondřej Kolář",
+            "Number": "16",
+            "OVRPOT": [
+                "79",
+                "84"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "GK",
+            "Nationality": "Czech Republic"
+        }
+    ],
+    "Switzerland": [
+        {
+            "Age": "32",
+            "Name": "Yann Sommer",
+            "Number": "1",
+            "OVRPOT": [
+                "84",
+                "84"
+            ],
+            "Position": "GK",
+            "Preferred Positions": "GK",
+            "Nationality": "Switzerland"
+        },
+        {
+            "Age": "26",
+            "Name": "Kevin Mbabu",
+            "Number": "2",
+            "OVRPOT": [
+                "79",
+                "82"
+            ],
+            "Position": "RWB",
+            "Preferred Positions": "RB",
+            "Nationality": "Switzerland"
+        },
+        {
+            "Age": "29",
+            "Name": "Fabian Schär",
+            "Number": "22",
+            "OVRPOT": [
+                "76",
+                "77"
+            ],
+            "Position": "RCB",
+            "Preferred Positions": "CB",
+            "Nationality": "Switzerland"
+        },
+        {
+            "Age": "25",
+            "Name": "Manuel Akanji",
+            "Number": "5",
+            "OVRPOT": [
+                "79",
+                "83"
+            ],
+            "Position": "CB",
+            "Preferred Positions": "CB",
+            "Nationality": "Switzerland"
+        },
+        {
+            "Age": "24",
+            "Name": "Nico Elvedi",
+            "Number": "4",
+            "OVRPOT": [
+                "78",
+                "82"
+            ],
+            "Position": "LCB",
+            "Preferred Positions": "CB",
+            "Nationality": "Switzerland"
+        },
+        {
+            "Age": "28",
+            "Name": "Ricardo Rodríguez",
+            "Number": "13",
+            "OVRPOT": [
+                "76",
+                "76"
+            ],
+            "Position": "LWB",
+            "Preferred Positions": "LB",
+            "Nationality": "Switzerland"
+        },
+        {
+            "Age": "24",
+            "Name": "Denis Zakaria",
+            "Number": "17",
+            "OVRPOT": [
+                "81",
+                "87"
+            ],
+            "Position": "RCM",
+            "Preferred Positions": "CDMCB",
+            "Nationality": "Switzerland"
+        },
+        {
+            "Age": "28",
+            "Name": "Granit Xhaka",
+            "Number": "10",
+            "OVRPOT": [
+                "79",
+                "79"
+            ],
+            "Position": "LCM",
+            "Preferred Positions": "CDMCM",
+            "Nationality": "Switzerland"
+        },
+        {
+            "Age": "29",
+            "Name": "Xherdan Shaqiri",
+            "Number": "23",
+            "OVRPOT": [
+                "79",
+                "79"
+            ],
+            "Position": "CAM",
+            "Preferred Positions": "RWRM",
+            "Nationality": "Switzerland"
+        },
+        {
+            "Age": "29",
+            "Name": "Haris Seferović",
+            "Number": "9",
+            "OVRPOT": [
+                "77",
+                "77"
+            ],
+            "Position": "RS",
+            "Preferred Positions": "ST",
+            "Nationality": "Switzerland"
+        },
+        {
+            "Age": "24",
+            "Name": "Cedric Itten",
+            "Number": "19",
+            "OVRPOT": [
+                "71",
+                "77"
+            ],
+            "Position": "LS",
+            "Preferred Positions": "STCAM",
+            "Nationality": "Switzerland"
+        },
+        {
+            "Age": "30",
+            "Name": "Admir Mehmedi",
+            "Number": "18",
+            "OVRPOT": [
+                "75",
+                "75"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CFLMCAM",
+            "Nationality": "Switzerland"
+        },
+        {
+            "Age": "29",
+            "Name": "Remo Freuler",
+            "Number": "8",
+            "OVRPOT": [
+                "79",
+                "79"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CM",
+            "Nationality": "Switzerland"
+        },
+        {
+            "Age": "25",
+            "Name": "Edimilson Fernandes",
+            "Number": "20",
+            "OVRPOT": [
+                "71",
+                "76"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CMCDM",
+            "Nationality": "Switzerland"
+        },
+        {
+            "Age": "23",
+            "Name": "Eray Cömert",
+            "Number": "14",
+            "OVRPOT": [
+                "71",
+                "82"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CB",
+            "Nationality": "Switzerland"
+        },
+        {
+            "Age": "27",
+            "Name": "Jonas Omlin",
+            "Number": "21",
+            "OVRPOT": [
+                "77",
+                "81"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "GK",
+            "Nationality": "Switzerland"
+        },
+        {
+            "Age": "24",
+            "Name": "Breel Embolo",
+            "Number": "7",
+            "OVRPOT": [
+                "77",
+                "83"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "STCAM",
+            "Nationality": "Switzerland"
+        },
+        {
+            "Age": "29",
+            "Name": "Renato Steffen",
+            "Number": "11",
+            "OVRPOT": [
+                "78",
+                "78"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "LMRM",
+            "Nationality": "Switzerland"
+        },
+        {
+            "Age": "24",
+            "Name": "Djibril Sow",
+            "Number": "15",
+            "OVRPOT": [
+                "77",
+                "82"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CMCDM",
+            "Nationality": "Switzerland"
+        },
+        {
+            "Age": "27",
+            "Name": "Christian Fassnacht",
+            "Number": "16",
+            "OVRPOT": [
+                "75",
+                "75"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "RMLMCAM",
+            "Nationality": "Switzerland"
+        },
+        {
+            "Age": "27",
+            "Name": "Yvon Mvogo",
+            "Number": "12",
+            "OVRPOT": [
+                "77",
+                "80"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "GK",
+            "Nationality": "Switzerland"
+        },
+        {
+            "Age": "29",
+            "Name": "Loris Benito",
+            "Number": "3",
+            "OVRPOT": [
+                "73",
+                "73"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "LBCB",
+            "Nationality": "Switzerland"
+        },
+        {
+            "Age": "28",
+            "Name": "Silvan Widmer",
+            "Number": "6",
+            "OVRPOT": [
+                "76",
+                "76"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "RB",
+            "Nationality": "Switzerland"
+        }
+    ],
+    "Ukraine": [
+        {
+            "Age": "37",
+            "Name": "Andriy Pyatov",
+            "Number": "12",
+            "OVRPOT": [
+                "75",
+                "75"
+            ],
+            "Position": "GK",
+            "Preferred Positions": "GK",
+            "Nationality": "Ukraine"
+        },
+        {
+            "Age": "29",
+            "Name": "Oleksandr Karavaev",
+            "Number": "21",
+            "OVRPOT": [
+                "73",
+                "73"
+            ],
+            "Position": "RB",
+            "Preferred Positions": "RMRB",
+            "Nationality": "Ukraine"
+        },
+        {
+            "Age": "19",
+            "Name": "Illia Dabbagh",
+            "Number": "3",
+            "OVRPOT": [
+                "72",
+                "82"
+            ],
+            "Position": "RCB",
+            "Preferred Positions": "CB",
+            "Nationality": "Ukraine"
+        },
+        {
+            "Age": "25",
+            "Name": "Mykola Matvienko",
+            "Number": "22",
+            "OVRPOT": [
+                "73",
+                "80"
+            ],
+            "Position": "LCB",
+            "Preferred Positions": "CBLB",
+            "Nationality": "Ukraine"
+        },
+        {
+            "Age": "22",
+            "Name": "Vitaliy Mykolenko",
+            "Number": "16",
+            "OVRPOT": [
+                "76",
+                "83"
+            ],
+            "Position": "LB",
+            "Preferred Positions": "LB",
+            "Nationality": "Ukraine"
+        },
+        {
+            "Age": "30",
+            "Name": "Serhiy Sydorchuk",
+            "Number": "5",
+            "OVRPOT": [
+                "75",
+                "75"
+            ],
+            "Position": "RCM",
+            "Preferred Positions": "CDMCM",
+            "Nationality": "Ukraine"
+        },
+        {
+            "Age": "24",
+            "Name": "Oleksandr Zinchenko",
+            "Number": "17",
+            "OVRPOT": [
+                "80",
+                "85"
+            ],
+            "Position": "LCM",
+            "Preferred Positions": "LBCDM",
+            "Nationality": "Ukraine"
+        },
+        {
+            "Age": "22",
+            "Name": "Mykola Shaparenko",
+            "Number": "10",
+            "OVRPOT": [
+                "76",
+                "84"
+            ],
+            "Position": "CAM",
+            "Preferred Positions": "CMCAM",
+            "Nationality": "Ukraine"
+        },
+        {
+            "Age": "31",
+            "Name": "Andriy Ozan Özenç",
+            "Number": "13",
+            "OVRPOT": [
+                "76",
+                "76"
+            ],
+            "Position": "RW",
+            "Preferred Positions": "RMRWST",
+            "Nationality": "Ukraine"
+        },
+        {
+            "Age": "25",
+            "Name": "Roman Sehnaj",
+            "Number": "9",
+            "OVRPOT": [
+                "77",
+                "80"
+            ],
+            "Position": "ST",
+            "Preferred Positions": "ST",
+            "Nationality": "Ukraine"
+        },
+        {
+            "Age": "28",
+            "Name": "Ruslan Malinovskyi",
+            "Number": "8",
+            "OVRPOT": [
+                "81",
+                "81"
+            ],
+            "Position": "LW",
+            "Preferred Positions": "CFCM",
+            "Nationality": "Ukraine"
+        },
+        {
+            "Age": "33",
+            "Name": "Marlos",
+            "Number": "11",
+            "OVRPOT": [
+                "81",
+                "81"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CAMRM",
+            "Nationality": "Ukraine"
+        },
+        {
+            "Age": "23",
+            "Name": "Viktor Tsygankov",
+            "Number": "7",
+            "OVRPOT": [
+                "80",
+                "86"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "RM",
+            "Nationality": "Ukraine"
+        },
+        {
+            "Age": "32",
+            "Name": "Taras Stepanenko",
+            "Number": "19",
+            "OVRPOT": [
+                "79",
+                "79"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CDM",
+            "Nationality": "Ukraine"
+        },
+        {
+            "Age": "30",
+            "Name": "Sergiy Kryvtsov",
+            "Number": "4",
+            "OVRPOT": [
+                "74",
+                "74"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CB",
+            "Nationality": "Ukraine"
+        },
+        {
+            "Age": "27",
+            "Name": "Georgiy Bushchan",
+            "Number": "1",
+            "OVRPOT": [
+                "75",
+                "79"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "GK",
+            "Nationality": "Ukraine"
+        },
+        {
+            "Age": "25",
+            "Name": "Oleksandr Zubkov",
+            "Number": "15",
+            "OVRPOT": [
+                "71",
+                "74"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "RWCAM",
+            "Nationality": "Ukraine"
+        },
+        {
+            "Age": "24",
+            "Name": "Artem Dovbyk",
+            "Number": "20",
+            "OVRPOT": [
+                "69",
+                "75"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "ST",
+            "Nationality": "Ukraine"
+        },
+        {
+            "Age": "30",
+            "Name": "R.Brugué Makarenko",
+            "Number": "18",
+            "OVRPOT": [
+                "71",
+                "71"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CDMCM",
+            "Nationality": "Ukraine"
+        },
+        {
+            "Age": "30",
+            "Name": "Roman Bezus",
+            "Number": "26",
+            "OVRPOT": [
+                "73",
+                "73"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CAMCM",
+            "Nationality": "Ukraine"
+        },
+        {
+            "Age": "26",
+            "Name": "Eduard Sobol",
+            "Number": "2",
+            "OVRPOT": [
+                "75",
+                "77"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "LBLM",
+            "Nationality": "Ukraine"
+        },
+        {
+            "Age": "24",
+            "Name": "Oleksandr Tymchyk",
+            "Number": "28",
+            "OVRPOT": [
+                "72",
+                "78"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "RB",
+            "Nationality": "Ukraine"
+        },
+        {
+            "Age": "20",
+            "Name": "Anatoliy Trubin",
+            "Number": "23",
+            "OVRPOT": [
+                "72",
+                "78"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "GK",
+            "Nationality": "Ukraine"
+        }
+    ],
+    "Austria": [
+        {
+            "Age": "25",
+            "Name": "Alexander Schlager",
+            "Number": "1",
+            "OVRPOT": [
+                "75",
+                "79"
+            ],
+            "Position": "GK",
+            "Preferred Positions": "GK",
+            "Nationality": "Austria"
+        },
+        {
+            "Age": "28",
+            "Name": "Stefan Lainer",
+            "Number": "21",
+            "OVRPOT": [
+                "80",
+                "80"
+            ],
+            "Position": "RB",
+            "Preferred Positions": "RB",
+            "Nationality": "Austria"
+        },
+        {
+            "Age": "28",
+            "Name": "Martin Hinteregger",
+            "Number": "4",
+            "OVRPOT": [
+                "80",
+                "81"
+            ],
+            "Position": "RCB",
+            "Preferred Positions": "CB",
+            "Nationality": "Austria"
+        },
+        {
+            "Age": "30",
+            "Name": "Aleksandar Dragović",
+            "Number": "3",
+            "OVRPOT": [
+                "75",
+                "75"
+            ],
+            "Position": "LCB",
+            "Preferred Positions": "CBRB",
+            "Nationality": "Austria"
+        },
+        {
+            "Age": "35",
+            "Name": "Andreas Ulmer",
+            "Number": "2",
+            "OVRPOT": [
+                "74",
+                "74"
+            ],
+            "Position": "LB",
+            "Preferred Positions": "LBLWBLM",
+            "Nationality": "Austria"
+        },
+        {
+            "Age": "25",
+            "Name": "Florian Grillitsch",
+            "Number": "10",
+            "OVRPOT": [
+                "78",
+                "82"
+            ],
+            "Position": "RDM",
+            "Preferred Positions": "CMCDMCB",
+            "Nationality": "Austria"
+        },
+        {
+            "Age": "32",
+            "Name": "Stefan Ilsanker",
+            "Number": "6",
+            "OVRPOT": [
+                "73",
+                "73"
+            ],
+            "Position": "LDM",
+            "Preferred Positions": "CBCDM",
+            "Nationality": "Austria"
+        },
+        {
+            "Age": "21",
+            "Name": "Christoph Baumgartner",
+            "Number": "19",
+            "OVRPOT": [
+                "76",
+                "84"
+            ],
+            "Position": "RM",
+            "Preferred Positions": "CAMLMCM",
+            "Nationality": "Austria"
+        },
+        {
+            "Age": "28",
+            "Name": "David Alaba",
+            "Number": "8",
+            "OVRPOT": [
+                "83",
+                "83"
+            ],
+            "Position": "LM",
+            "Preferred Positions": "CBLB",
+            "Nationality": "Austria"
+        },
+        {
+            "Age": "27",
+            "Name": "Marcel Sabitzer",
+            "Number": "9",
+            "OVRPOT": [
+                "84",
+                "85"
+            ],
+            "Position": "CAM",
+            "Preferred Positions": "CMCDMCAM",
+            "Nationality": "Austria"
+        },
+        {
+            "Age": "23",
+            "Name": "Saša Kalajdžić",
+            "Number": "25",
+            "OVRPOT": [
+                "74",
+                "80"
+            ],
+            "Position": "ST",
+            "Preferred Positions": "STCAM",
+            "Nationality": "Austria"
+        },
+        {
+            "Age": "32",
+            "Name": "Marko Arnautović",
+            "Number": "7",
+            "OVRPOT": [
+                "82",
+                "82"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "ST",
+            "Nationality": "Austria"
+        },
+        {
+            "Age": "23",
+            "Name": "Xaver Schlager",
+            "Number": "23",
+            "OVRPOT": [
+                "78",
+                "83"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CDMCMCAM",
+            "Nationality": "Austria"
+        },
+        {
+            "Age": "26",
+            "Name": "Louis Schaub",
+            "Number": "17",
+            "OVRPOT": [
+                "73",
+                "76"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CAMRM",
+            "Nationality": "Austria"
+        },
+        {
+            "Age": "24",
+            "Name": "Philipp Lienhart",
+            "Number": "15",
+            "OVRPOT": [
+                "75",
+                "78"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CB",
+            "Nationality": "Austria"
+        },
+        {
+            "Age": "33",
+            "Name": "Pavao Pervan",
+            "Number": "12",
+            "OVRPOT": [
+                "74",
+                "74"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "GK",
+            "Nationality": "Austria"
+        },
+        {
+            "Age": "27",
+            "Name": "Michael Gregoritsch",
+            "Number": "11",
+            "OVRPOT": [
+                "73",
+                "74"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "STCAM",
+            "Nationality": "Austria"
+        },
+        {
+            "Age": "25",
+            "Name": "Valentino Lazaro",
+            "Number": "22",
+            "OVRPOT": [
+                "77",
+                "80"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "RMRB",
+            "Nationality": "Austria"
+        },
+        {
+            "Age": "24",
+            "Name": "Konrad Laimer",
+            "Number": "24",
+            "OVRPOT": [
+                "81",
+                "85"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CDMCMRB",
+            "Nationality": "Austria"
+        },
+        {
+            "Age": "34",
+            "Name": "Christopher Trimmel",
+            "Number": "16",
+            "OVRPOT": [
+                "76",
+                "76"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "RBRMRWB",
+            "Nationality": "Austria"
+        },
+        {
+            "Age": "29",
+            "Name": "Karim Onisiwo",
+            "Number": "20",
+            "OVRPOT": [
+                "73",
+                "73"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "STRMLM",
+            "Nationality": "Austria"
+        },
+        {
+            "Age": "23",
+            "Name": "Marco Friedl",
+            "Number": "26",
+            "OVRPOT": [
+                "73",
+                "78"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CBLB",
+            "Nationality": "Austria"
+        },
+        {
+            "Age": "26",
+            "Name": "Daniel Bachmann",
+            "Number": "13",
+            "OVRPOT": [
+                "70",
+                "73"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "GK",
+            "Nationality": "Austria"
+        }
+    ],
+    "Croatia": [
+        {
+            "Age": "33",
+            "Name": "Danijel Subašić",
+            "Number": "23",
+            "OVRPOT": [
+                "83",
+                "83"
+            ],
+            "Position": "GK",
+            "Preferred Positions": "GK",
+            "Nationality": "Croatia"
+        },
+        {
+            "Age": "26",
+            "Name": "Šime Vrsaljko",
+            "Number": "2",
+            "OVRPOT": [
+                "80",
+                "81"
+            ],
+            "Position": "RB",
+            "Preferred Positions": "RBLB",
+            "Nationality": "Croatia"
+        },
+        {
+            "Age": "29",
+            "Name": "Dejan Lovren",
+            "Number": "6",
+            "OVRPOT": [
+                "80",
+                "82"
+            ],
+            "Position": "RCB",
+            "Preferred Positions": "CB",
+            "Nationality": "Croatia"
+        },
+        {
+            "Age": "29",
+            "Name": "Domagoj Vida",
+            "Number": "21",
+            "OVRPOT": [
+                "78",
+                "78"
+            ],
+            "Position": "LCB",
+            "Preferred Positions": "CBRB",
+            "Nationality": "Croatia"
+        },
+        {
+            "Age": "30",
+            "Name": "Ivan Strinić",
+            "Number": "3",
+            "OVRPOT": [
+                "75",
+                "75"
+            ],
+            "Position": "LB",
+            "Preferred Positions": "LB",
+            "Nationality": "Croatia"
+        },
+        {
+            "Age": "30",
+            "Name": "Ivan Rakitić",
+            "Number": "7",
+            "OVRPOT": [
+                "86",
+                "86"
+            ],
+            "Position": "RDM",
+            "Preferred Positions": "CMCDM",
+            "Nationality": "Croatia"
+        },
+        {
+            "Age": "25",
+            "Name": "Marcelo Brozović",
+            "Number": "11",
+            "OVRPOT": [
+                "80",
+                "84"
+            ],
+            "Position": "LDM",
+            "Preferred Positions": "CMCDM",
+            "Nationality": "Croatia"
+        },
+        {
+            "Age": "24",
+            "Name": "Ante Rebić",
+            "Number": "18",
+            "OVRPOT": [
+                "75",
+                "78"
+            ],
+            "Position": "RM",
+            "Preferred Positions": "LMSTLW",
+            "Nationality": "Croatia"
+        },
+        {
+            "Age": "29",
+            "Name": "Ivan Perišić",
+            "Number": "4",
+            "OVRPOT": [
+                "85",
+                "85"
+            ],
+            "Position": "LM",
+            "Preferred Positions": "LMCAMLW",
+            "Nationality": "Croatia"
+        },
+        {
+            "Age": "32",
+            "Name": "Luka Modrić",
+            "Number": "10",
+            "OVRPOT": [
+                "89",
+                "89"
+            ],
+            "Position": "CAM",
+            "Preferred Positions": "CMCDMCAM",
+            "Nationality": "Croatia"
+        },
+        {
+            "Age": "32",
+            "Name": "Mario Mandžukić",
+            "Number": "17",
+            "OVRPOT": [
+                "83",
+                "83"
+            ],
+            "Position": "ST",
+            "Preferred Positions": "STLM",
+            "Nationality": "Croatia"
+        },
+        {
+            "Age": "27",
+            "Name": "Andrej Kramarić",
+            "Number": "9",
+            "OVRPOT": [
+                "80",
+                "82"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "STLWCAM",
+            "Nationality": "Croatia"
+        },
+        {
+            "Age": "24",
+            "Name": "Mateo Kovačić",
+            "Number": "8",
+            "OVRPOT": [
+                "81",
+                "87"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CMCDM",
+            "Nationality": "Croatia"
+        },
+        {
+            "Age": "22",
+            "Name": "Tin Jedvaj",
+            "Number": "13",
+            "OVRPOT": [
+                "74",
+                "82"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "RBCB",
+            "Nationality": "Croatia"
+        },
+        {
+            "Age": "21",
+            "Name": "Duje Ćaleta-Car",
+            "Number": "15",
+            "OVRPOT": [
+                "71",
+                "77"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CB",
+            "Nationality": "Croatia"
+        },
+        {
+            "Age": "28",
+            "Name": "Lovre Kalinić",
+            "Number": "12",
+            "OVRPOT": [
+                "75",
+                "77"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "GK",
+            "Nationality": "Croatia"
+        },
+        {
+            "Age": "29",
+            "Name": "Milan Badelj",
+            "Number": "19",
+            "OVRPOT": [
+                "78",
+                "78"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CDMCM",
+            "Nationality": "Croatia"
+        },
+        {
+            "Age": "32",
+            "Name": "Vedran Ćorluka",
+            "Number": "5",
+            "OVRPOT": [
+                "80",
+                "80"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CB",
+            "Nationality": "Croatia"
+        },
+        {
+            "Age": "29",
+            "Name": "Josip Pivarić",
+            "Number": "22",
+            "OVRPOT": [
+                "68",
+                "68"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "LBLM",
+            "Nationality": "Croatia"
+        },
+        {
+            "Age": "23",
+            "Name": "Marko Pjaca",
+            "Number": "20",
+            "OVRPOT": [
+                "77",
+                "87"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "LMCAM",
+            "Nationality": "Croatia"
+        },
+        {
+            "Age": "26",
+            "Name": "Filip Bradarić",
+            "Number": "14",
+            "OVRPOT": [
+                "64",
+                "68"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CDM",
+            "Nationality": "Croatia"
+        },
+        {
+            "Age": "22",
+            "Name": "Dominik Livaković",
+            "Number": "1",
+            "OVRPOT": [
+                "65",
+                "72"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "GK",
+            "Nationality": "Croatia"
+        },
+        {
+            "Age": "30",
+            "Name": "Nikola Kalinić",
+            "Number": "16",
+            "OVRPOT": [
+                "79",
+                "79"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "ST",
+            "Nationality": "Croatia"
+        },
+        {
+            "Age": "24",
+            "Name": "Matej Mitrović",
+            "Number": "24",
+            "OVRPOT": [
+                "71",
+                "77"
+            ],
+            "Position": "Res",
+            "Preferred Positions": "CB",
+            "Nationality": "Croatia"
+        },
+        {
+            "Age": "23",
+            "Name": "Mario Pašalić",
+            "Number": "26",
+            "OVRPOT": [
+                "75",
+                "84"
+            ],
+            "Position": "Res",
+            "Preferred Positions": "CMCDM",
+            "Nationality": "Croatia"
+        },
+        {
+            "Age": "28",
+            "Name": "Duje Čop",
+            "Number": "28",
+            "OVRPOT": [
+                "74",
+                "74"
+            ],
+            "Position": "Res",
+            "Preferred Positions": "ST",
+            "Nationality": "Croatia"
+        },
+        {
+            "Age": "24",
+            "Name": "Antonio Milić",
+            "Number": "33",
+            "OVRPOT": [
+                "71",
+                "77"
+            ],
+            "Position": "Res",
+            "Preferred Positions": "CBLB",
+            "Nationality": "Croatia"
+        },
+        {
+            "Age": "28",
+            "Name": "Zoran Nižić",
+            "Number": "30",
+            "OVRPOT": [
+                "63",
+                "63"
+            ],
+            "Position": "Res",
+            "Preferred Positions": "CB",
+            "Nationality": "Croatia"
+        },
+        {
+            "Age": "29",
+            "Name": "Ivan Santini",
+            "Number": "27",
+            "OVRPOT": [
+                "76",
+                "76"
+            ],
+            "Position": "Res",
+            "Preferred Positions": "ST",
+            "Nationality": "Croatia"
+        },
+        {
+            "Age": "22",
+            "Name": "Marko Rog",
+            "Number": "25",
+            "OVRPOT": [
+                "76",
+                "84"
+            ],
+            "Position": "Res",
+            "Preferred Positions": "CAMCM",
+            "Nationality": "Croatia"
+        },
+        {
+            "Age": "31",
+            "Name": "Ivan Vargić",
+            "Number": "31",
+            "OVRPOT": [
+                "69",
+                "69"
+            ],
+            "Position": "Res",
+            "Preferred Positions": "GK",
+            "Nationality": "Croatia"
+        },
+        {
+            "Age": "25",
+            "Name": "Borna Barišić",
+            "Number": "29",
+            "OVRPOT": [
+                "65",
+                "69"
+            ],
+            "Position": "Res",
+            "Preferred Positions": "LBLM",
+            "Nationality": "Croatia"
+        },
+        {
+            "Age": "27",
+            "Name": "Marko Lešković",
+            "Number": "38",
+            "OVRPOT": [
+                "64",
+                "68"
+            ],
+            "Position": "Res",
+            "Preferred Positions": "CB",
+            "Nationality": "Croatia"
+        },
+        {
+            "Age": "28",
+            "Name": "Domagoj Antolić",
+            "Number": "36",
+            "OVRPOT": [
+                "67",
+                "67"
+            ],
+            "Position": "Res",
+            "Preferred Positions": "CMCDM",
+            "Nationality": "Croatia"
+        },
+        {
+            "Age": "27",
+            "Name": "Franko Andrijašević",
+            "Number": "34",
+            "OVRPOT": [
+                "76",
+                "78"
+            ],
+            "Position": "Res",
+            "Preferred Positions": "STCAM",
+            "Nationality": "Croatia"
+        },
+        {
+            "Age": "29",
+            "Name": "Marin Leovac",
+            "Number": "32",
+            "OVRPOT": [
+                "71",
+                "71"
+            ],
+            "Position": "Res",
+            "Preferred Positions": "LBLM",
+            "Nationality": "Croatia"
+        },
+        {
+            "Age": "20",
+            "Name": "Nikola Vlašić",
+            "Number": "37",
+            "OVRPOT": [
+                "67",
+                "82"
+            ],
+            "Position": "Res",
+            "Preferred Positions": "RMCAMRW",
+            "Nationality": "Croatia"
+        },
+        {
+            "Age": "21",
+            "Name": "Ante Ćorić",
+            "Number": "35",
+            "OVRPOT": [
+                "73",
+                "85"
+            ],
+            "Position": "Res",
+            "Preferred Positions": "CAMLM",
+            "Nationality": "Croatia"
+        }
+    ],
+    "Germany": [
+        {
+            "Age": "35",
+            "Name": "Manuel Neuer",
+            "Number": "1",
+            "OVRPOT": [
+                "90",
+                "90"
+            ],
+            "Position": "GK",
+            "Preferred Positions": "GK",
+            "Nationality": "Germany"
+        },
+        {
+            "Age": "25",
+            "Name": "Lukas Klostermann",
+            "Number": "13",
+            "OVRPOT": [
+                "80",
+                "85"
+            ],
+            "Position": "RB",
+            "Preferred Positions": "CBRBRWB",
+            "Nationality": "Germany"
+        },
+        {
+            "Age": "27",
+            "Name": "Matthias Ginter",
+            "Number": "4",
+            "OVRPOT": [
+                "83",
+                "84"
+            ],
+            "Position": "RCB",
+            "Preferred Positions": "CB",
+            "Nationality": "Germany"
+        },
+        {
+            "Age": "28",
+            "Name": "Antonio Rüdiger",
+            "Number": "16",
+            "OVRPOT": [
+                "82",
+                "84"
+            ],
+            "Position": "LCB",
+            "Preferred Positions": "CB",
+            "Nationality": "Germany"
+        },
+        {
+            "Age": "27",
+            "Name": "Emre Can",
+            "Number": "23",
+            "OVRPOT": [
+                "82",
+                "83"
+            ],
+            "Position": "LB",
+            "Preferred Positions": "CMCBCDM",
+            "Nationality": "Germany"
+        },
+        {
+            "Age": "26",
+            "Name": "Joshua Kimmich",
+            "Number": "6",
+            "OVRPOT": [
+                "89",
+                "90"
+            ],
+            "Position": "CDM",
+            "Preferred Positions": "CDMRB",
+            "Nationality": "Germany"
+        },
+        {
+            "Age": "26",
+            "Name": "Leon Goretzka",
+            "Number": "18",
+            "OVRPOT": [
+                "87",
+                "88"
+            ],
+            "Position": "RCM",
+            "Preferred Positions": "CMCDM",
+            "Nationality": "Germany"
+        },
+        {
+            "Age": "30",
+            "Name": "İlkay Gündoğan",
+            "Number": "15",
+            "OVRPOT": [
+                "84",
+                "84"
+            ],
+            "Position": "LCM",
+            "Preferred Positions": "CMCDM",
+            "Nationality": "Germany"
+        },
+        {
+            "Age": "21",
+            "Name": "Kai Havertz",
+            "Number": "10",
+            "OVRPOT": [
+                "83",
+                "91"
+            ],
+            "Position": "RW",
+            "Preferred Positions": "CAMCFCM",
+            "Nationality": "Germany"
+        },
+        {
+            "Age": "25",
+            "Name": "Serge Gnabry",
+            "Number": "20",
+            "OVRPOT": [
+                "86",
+                "88"
+            ],
+            "Position": "ST",
+            "Preferred Positions": "RMLMRW",
+            "Nationality": "Germany"
+        },
+        {
+            "Age": "25",
+            "Name": "Leroy Sané",
+            "Number": "19",
+            "OVRPOT": [
+                "85",
+                "88"
+            ],
+            "Position": "LW",
+            "Preferred Positions": "RMLM",
+            "Nationality": "Germany"
+        },
+        {
+            "Age": "31",
+            "Name": "Toni Kroos",
+            "Number": "8",
+            "OVRPOT": [
+                "88",
+                "88"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CM",
+            "Nationality": "Germany"
+        },
+        {
+            "Age": "26",
+            "Name": "Robin Gosens",
+            "Number": "7",
+            "OVRPOT": [
+                "83",
+                "83"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "LM",
+            "Nationality": "Germany"
+        },
+        {
+            "Age": "24",
+            "Name": "Florian Neuhaus",
+            "Number": "14",
+            "OVRPOT": [
+                "81",
+                "87"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CM",
+            "Nationality": "Germany"
+        },
+        {
+            "Age": "29",
+            "Name": "Marcel Halstenberg",
+            "Number": "3",
+            "OVRPOT": [
+                "79",
+                "79"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CBLB",
+            "Nationality": "Germany"
+        },
+        {
+            "Age": "29",
+            "Name": "Marc-André ter Stegen",
+            "Number": "22",
+            "OVRPOT": [
+                "90",
+                "92"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "GK",
+            "Nationality": "Germany"
+        },
+        {
+            "Age": "25",
+            "Name": "Timo Werner",
+            "Number": "9",
+            "OVRPOT": [
+                "84",
+                "87"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "STLW",
+            "Nationality": "Germany"
+        },
+        {
+            "Age": "27",
+            "Name": "Amin Younes",
+            "Number": "11",
+            "OVRPOT": [
+                "78",
+                "78"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CAMCFLM",
+            "Nationality": "Germany"
+        },
+        {
+            "Age": "29",
+            "Name": "Bernd Leno",
+            "Number": "12",
+            "OVRPOT": [
+                "84",
+                "85"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "GK",
+            "Nationality": "Germany"
+        },
+        {
+            "Age": "25",
+            "Name": "Jonathan Tah",
+            "Number": "5",
+            "OVRPOT": [
+                "78",
+                "82"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CB",
+            "Nationality": "Germany"
+        },
+        {
+            "Age": "27",
+            "Name": "Philipp Max",
+            "Number": "2",
+            "OVRPOT": [
+                "80",
+                "81"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "LB",
+            "Nationality": "Germany"
+        },
+        {
+            "Age": "18",
+            "Name": "Jamal Musiala",
+            "Number": "21",
+            "OVRPOT": [
+                "74",
+                "87"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CAMLM",
+            "Nationality": "Germany"
+        },
+        {
+            "Age": "18",
+            "Name": "Florian Wirtz",
+            "Number": "17",
+            "OVRPOT": [
+                "76",
+                "89"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CAMCMRW",
+            "Nationality": "Germany"
+        }
+    ],
+    "Netherlands": [
+        {
+            "Age": "32",
+            "Name": "Jasper Cillessen",
+            "Number": "1",
+            "OVRPOT": [
+                "80",
+                "80"
+            ],
+            "Position": "GK",
+            "Preferred Positions": "GK",
+            "Nationality": "Netherlands"
+        },
+        {
+            "Age": "25",
+            "Name": "Denzel Dumfries",
+            "Number": "22",
+            "OVRPOT": [
+                "80",
+                "83"
+            ],
+            "Position": "RB",
+            "Preferred Positions": "RB",
+            "Nationality": "Netherlands"
+        },
+        {
+            "Age": "21",
+            "Name": "Matthijs de Ligt",
+            "Number": "3",
+            "OVRPOT": [
+                "85",
+                "92"
+            ],
+            "Position": "RCB",
+            "Preferred Positions": "CB",
+            "Nationality": "Netherlands"
+        },
+        {
+            "Age": "29",
+            "Name": "Stefan de Vrij",
+            "Number": "6",
+            "OVRPOT": [
+                "85",
+                "85"
+            ],
+            "Position": "LCB",
+            "Preferred Positions": "CB",
+            "Nationality": "Netherlands"
+        },
+        {
+            "Age": "31",
+            "Name": "Daley Blind",
+            "Number": "17",
+            "OVRPOT": [
+                "82",
+                "82"
+            ],
+            "Position": "LB",
+            "Preferred Positions": "CBCDMLB",
+            "Nationality": "Netherlands"
+        },
+        {
+            "Age": "30",
+            "Name": "Georginio Wijnaldum",
+            "Number": "8",
+            "OVRPOT": [
+                "84",
+                "84"
+            ],
+            "Position": "RCM",
+            "Preferred Positions": "CMCDM",
+            "Nationality": "Netherlands"
+        },
+        {
+            "Age": "24",
+            "Name": "Frenkie de Jong",
+            "Number": "21",
+            "OVRPOT": [
+                "86",
+                "91"
+            ],
+            "Position": "LCM",
+            "Preferred Positions": "CMCDMCB",
+            "Nationality": "Netherlands"
+        },
+        {
+            "Age": "28",
+            "Name": "Davy Klaassen",
+            "Number": "14",
+            "OVRPOT": [
+                "78",
+                "78"
+            ],
+            "Position": "CAM",
+            "Preferred Positions": "CAMCM",
+            "Nationality": "Netherlands"
+        },
+        {
+            "Age": "29",
+            "Name": "Steven Berghuis",
+            "Number": "7",
+            "OVRPOT": [
+                "81",
+                "81"
+            ],
+            "Position": "RW",
+            "Preferred Positions": "RW",
+            "Nationality": "Netherlands"
+        },
+        {
+            "Age": "30",
+            "Name": "Luuk de Jong",
+            "Number": "9",
+            "OVRPOT": [
+                "80",
+                "80"
+            ],
+            "Position": "ST",
+            "Preferred Positions": "ST",
+            "Nationality": "Netherlands"
+        },
+        {
+            "Age": "27",
+            "Name": "Memphis Depay",
+            "Number": "10",
+            "OVRPOT": [
+                "84",
+                "85"
+            ],
+            "Position": "LW",
+            "Preferred Positions": "CFLWCAM",
+            "Nationality": "Netherlands"
+        },
+        {
+            "Age": "30",
+            "Name": "Marten de Roon",
+            "Number": "15",
+            "OVRPOT": [
+                "81",
+                "81"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CDMCM",
+            "Nationality": "Netherlands"
+        },
+        {
+            "Age": "24",
+            "Name": "Donny van de Beek",
+            "Number": "20",
+            "OVRPOT": [
+                "81",
+                "86"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CMCAMCDM",
+            "Nationality": "Netherlands"
+        },
+        {
+            "Age": "26",
+            "Name": "Nathan Aké",
+            "Number": "2",
+            "OVRPOT": [
+                "79",
+                "83"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CB",
+            "Nationality": "Netherlands"
+        },
+        {
+            "Age": "21",
+            "Name": "Owen Wijndal",
+            "Number": "5",
+            "OVRPOT": [
+                "79",
+                "85"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "LB",
+            "Nationality": "Netherlands"
+        },
+        {
+            "Age": "33",
+            "Name": "Tim Krul",
+            "Number": "13",
+            "OVRPOT": [
+                "76",
+                "76"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "GK",
+            "Nationality": "Netherlands"
+        },
+        {
+            "Age": "28",
+            "Name": "Wout Weghorst",
+            "Number": "19",
+            "OVRPOT": [
+                "82",
+                "82"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "ST",
+            "Nationality": "Netherlands"
+        },
+        {
+            "Age": "22",
+            "Name": "Donyell Malen",
+            "Number": "18",
+            "OVRPOT": [
+                "79",
+                "86"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "ST",
+            "Nationality": "Netherlands"
+        },
+        {
+            "Age": "29",
+            "Name": "Quincy Promes",
+            "Number": "11",
+            "OVRPOT": [
+                "80",
+                "80"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CAMLW",
+            "Nationality": "Netherlands"
+        },
+        {
+            "Age": "19",
+            "Name": "Ryan Gravenberch",
+            "Number": "16",
+            "OVRPOT": [
+                "77",
+                "89"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CMCDM",
+            "Nationality": "Netherlands"
+        },
+        {
+            "Age": "30",
+            "Name": "Patrick van Aanholt",
+            "Number": "12",
+            "OVRPOT": [
+                "76",
+                "76"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "LB",
+            "Nationality": "Netherlands"
+        },
+        {
+            "Age": "29",
+            "Name": "Virgil van Dijk",
+            "Number": "4",
+            "OVRPOT": [
+                "90",
+                "91"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CB",
+            "Nationality": "Netherlands"
+        },
+        {
+            "Age": "38",
+            "Name": "Maarten Stekelenburg",
+            "Number": "23",
+            "OVRPOT": [
+                "74",
+                "74"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "GK",
+            "Nationality": "Netherlands"
+        }
+    ],
+    "Sweden": [
+        {
+            "Age": "31",
+            "Name": "Robin Olsen",
+            "Number": "1",
+            "OVRPOT": [
+                "77",
+                "77"
+            ],
+            "Position": "GK",
+            "Preferred Positions": "GK",
+            "Nationality": "Sweden"
+        },
+        {
+            "Age": "34",
+            "Name": "Mikael Lustig",
+            "Number": "2",
+            "OVRPOT": [
+                "72",
+                "72"
+            ],
+            "Position": "RB",
+            "Preferred Positions": "RB",
+            "Nationality": "Sweden"
+        },
+        {
+            "Age": "28",
+            "Name": "Filip Helander",
+            "Number": "14",
+            "OVRPOT": [
+                "74",
+                "76"
+            ],
+            "Position": "RCB",
+            "Preferred Positions": "CB",
+            "Nationality": "Sweden"
+        },
+        {
+            "Age": "26",
+            "Name": "Victor Lindelöf",
+            "Number": "3",
+            "OVRPOT": [
+                "80",
+                "84"
+            ],
+            "Position": "LCB",
+            "Preferred Positions": "CB",
+            "Nationality": "Sweden"
+        },
+        {
+            "Age": "27",
+            "Name": "Ludwig Augustinsson",
+            "Number": "6",
+            "OVRPOT": [
+                "76",
+                "77"
+            ],
+            "Position": "LB",
+            "Preferred Positions": "LBLWBLM",
+            "Nationality": "Sweden"
+        },
+        {
+            "Age": "25",
+            "Name": "Kristoffer Olsson",
+            "Number": "20",
+            "OVRPOT": [
+                "74",
+                "79"
+            ],
+            "Position": "RCM",
+            "Preferred Positions": "CM",
+            "Nationality": "Sweden"
+        },
+        {
+            "Age": "36",
+            "Name": "Sebastian Larsson",
+            "Number": "7",
+            "OVRPOT": [
+                "73",
+                "73"
+            ],
+            "Position": "LCM",
+            "Preferred Positions": "CMCDM",
+            "Nationality": "Sweden"
+        },
+        {
+            "Age": "21",
+            "Name": "Dejan Kulusevski",
+            "Number": "21",
+            "OVRPOT": [
+                "78",
+                "88"
+            ],
+            "Position": "RW",
+            "Preferred Positions": "RWCF",
+            "Nationality": "Sweden"
+        },
+        {
+            "Age": "27",
+            "Name": "Robin Quaison",
+            "Number": "22",
+            "OVRPOT": [
+                "74",
+                "75"
+            ],
+            "Position": "RS",
+            "Preferred Positions": "STLMCAM",
+            "Nationality": "Sweden"
+        },
+        {
+            "Age": "21",
+            "Name": "Alexander Isak",
+            "Number": "11",
+            "OVRPOT": [
+                "80",
+                "85"
+            ],
+            "Position": "LS",
+            "Preferred Positions": "ST",
+            "Nationality": "Sweden"
+        },
+        {
+            "Age": "29",
+            "Name": "Emil Forsberg",
+            "Number": "10",
+            "OVRPOT": [
+                "81",
+                "81"
+            ],
+            "Position": "LW",
+            "Preferred Positions": "CAMCF",
+            "Nationality": "Sweden"
+        },
+        {
+            "Age": "34",
+            "Name": "Marcus Berg",
+            "Number": "9",
+            "OVRPOT": [
+                "75",
+                "75"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "STCF",
+            "Nationality": "Sweden"
+        },
+        {
+            "Age": "31",
+            "Name": "Albin Ekdal",
+            "Number": "8",
+            "OVRPOT": [
+                "75",
+                "75"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CMCDM",
+            "Nationality": "Sweden"
+        },
+        {
+            "Age": "30",
+            "Name": "Pontus Jansson",
+            "Number": "18",
+            "OVRPOT": [
+                "74",
+                "74"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CB",
+            "Nationality": "Sweden"
+        },
+        {
+            "Age": "26",
+            "Name": "Emil Krafth",
+            "Number": "16",
+            "OVRPOT": [
+                "73",
+                "76"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "RBCB",
+            "Nationality": "Sweden"
+        },
+        {
+            "Age": "31",
+            "Name": "Karl-Johan Johnsson",
+            "Number": "12",
+            "OVRPOT": [
+                "75",
+                "75"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "GK",
+            "Nationality": "Sweden"
+        },
+        {
+            "Age": "27",
+            "Name": "Ken Sema",
+            "Number": "15",
+            "OVRPOT": [
+                "73",
+                "73"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "LWLMLWB",
+            "Nationality": "Sweden"
+        },
+        {
+            "Age": "29",
+            "Name": "Viktor Claesson",
+            "Number": "19",
+            "OVRPOT": [
+                "76",
+                "76"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CAMLMCM",
+            "Nationality": "Sweden"
+        },
+        {
+            "Age": "22",
+            "Name": "Mattias Svanberg",
+            "Number": "17",
+            "OVRPOT": [
+                "73",
+                "83"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CMCDMRM",
+            "Nationality": "Sweden"
+        },
+        {
+            "Age": "31",
+            "Name": "Kristoffer Nordfeldt",
+            "Number": "23",
+            "OVRPOT": [
+                "75",
+                "75"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "GK",
+            "Nationality": "Sweden"
+        },
+        {
+            "Age": "34",
+            "Name": "Gustav Svensson",
+            "Number": "13",
+            "OVRPOT": [
+                "74",
+                "74"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CDMCBCM",
+            "Nationality": "Sweden"
+        },
+        {
+            "Age": "36",
+            "Name": "Andreas Granqvist",
+            "Number": "4",
+            "OVRPOT": [
+                "71",
+                "71"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CB",
+            "Nationality": "Sweden"
+        },
+        {
+            "Age": "33",
+            "Name": "Martin Olsson",
+            "Number": "5",
+            "OVRPOT": [
+                "71",
+                "71"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "LBCB",
+            "Nationality": "Sweden"
+        }
+    ],
+    "Wales": [
+        {
+            "Age": "34",
+            "Name": "Wayne Hennessey",
+            "Number": "1",
+            "OVRPOT": [
+                "74",
+                "74"
+            ],
+            "Position": "GK",
+            "Preferred Positions": "GK",
+            "Nationality": "Wales"
+        },
+        {
+            "Age": "25",
+            "Name": "Connor Roberts",
+            "Number": "2",
+            "OVRPOT": [
+                "74",
+                "77"
+            ],
+            "Position": "RWB",
+            "Preferred Positions": "RWBRB",
+            "Nationality": "Wales"
+        },
+        {
+            "Age": "23",
+            "Name": "Chris Mepham",
+            "Number": "6",
+            "OVRPOT": [
+                "72",
+                "80"
+            ],
+            "Position": "RCB",
+            "Preferred Positions": "CB",
+            "Nationality": "Wales"
+        },
+        {
+            "Age": "23",
+            "Name": "Joe Rodon",
+            "Number": "23",
+            "OVRPOT": [
+                "71",
+                "82"
+            ],
+            "Position": "CB",
+            "Preferred Positions": "CB",
+            "Nationality": "Wales"
+        },
+        {
+            "Age": "28",
+            "Name": "Ben Davies",
+            "Number": "4",
+            "OVRPOT": [
+                "79",
+                "79"
+            ],
+            "Position": "LCB",
+            "Preferred Positions": "LBCB",
+            "Nationality": "Wales"
+        },
+        {
+            "Age": "20",
+            "Name": "Neco Williams",
+            "Number": "3",
+            "OVRPOT": [
+                "68",
+                "84"
+            ],
+            "Position": "LWB",
+            "Preferred Positions": "RB",
+            "Nationality": "Wales"
+        },
+        {
+            "Age": "30",
+            "Name": "Aaron Ramsey",
+            "Number": "10",
+            "OVRPOT": [
+                "82",
+                "82"
+            ],
+            "Position": "RCM",
+            "Preferred Positions": "CMCAMLM",
+            "Nationality": "Wales"
+        },
+        {
+            "Age": "20",
+            "Name": "Ethan Ampadu",
+            "Number": "15",
+            "OVRPOT": [
+                "68",
+                "85"
+            ],
+            "Position": "LCM",
+            "Preferred Positions": "CBCDMCM",
+            "Nationality": "Wales"
+        },
+        {
+            "Age": "31",
+            "Name": "Gareth Bale",
+            "Number": "11",
+            "OVRPOT": [
+                "82",
+                "82"
+            ],
+            "Position": "RW",
+            "Preferred Positions": "RMRW",
+            "Nationality": "Wales"
+        },
+        {
+            "Age": "28",
+            "Name": "Kieffer Moore",
+            "Number": "13",
+            "OVRPOT": [
+                "73",
+                "73"
+            ],
+            "Position": "ST",
+            "Preferred Positions": "ST",
+            "Nationality": "Wales"
+        },
+        {
+            "Age": "23",
+            "Name": "Daniel James",
+            "Number": "20",
+            "OVRPOT": [
+                "76",
+                "81"
+            ],
+            "Position": "LW",
+            "Preferred Positions": "RMLMCF",
+            "Nationality": "Wales"
+        },
+        {
+            "Age": "23",
+            "Name": "David Brooks",
+            "Number": "22",
+            "OVRPOT": [
+                "76",
+                "83"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "RMRW",
+            "Nationality": "Wales"
+        },
+        {
+            "Age": "24",
+            "Name": "Harry Wilson",
+            "Number": "7",
+            "OVRPOT": [
+                "75",
+                "81"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CAMRMRW",
+            "Nationality": "Wales"
+        },
+        {
+            "Age": "24",
+            "Name": "Joe Morrell",
+            "Number": "17",
+            "OVRPOT": [
+                "66",
+                "73"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CM",
+            "Nationality": "Wales"
+        },
+        {
+            "Age": "21",
+            "Name": "Ben Cabango",
+            "Number": "5",
+            "OVRPOT": [
+                "71",
+                "82"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CB",
+            "Nationality": "Wales"
+        },
+        {
+            "Age": "27",
+            "Name": "Danny Ward",
+            "Number": "12",
+            "OVRPOT": [
+                "74",
+                "74"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "GK",
+            "Nationality": "Wales"
+        },
+        {
+            "Age": "32",
+            "Name": "Hal Robson-Kanu",
+            "Number": "14",
+            "OVRPOT": [
+                "69",
+                "69"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "STRW",
+            "Nationality": "Wales"
+        },
+        {
+            "Age": "22",
+            "Name": "Tyler Roberts",
+            "Number": "9",
+            "OVRPOT": [
+                "73",
+                "80"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CAMCMST",
+            "Nationality": "Wales"
+        },
+        {
+            "Age": "20",
+            "Name": "Dylan Levitt",
+            "Number": "18",
+            "OVRPOT": [
+                "63",
+                "80"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CMCDM",
+            "Nationality": "Wales"
+        },
+        {
+            "Age": "27",
+            "Name": "Jonathan Williams",
+            "Number": "8",
+            "OVRPOT": [
+                "68",
+                "68"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CAM",
+            "Nationality": "Wales"
+        },
+        {
+            "Age": "20",
+            "Name": "Rabbi Matondo",
+            "Number": "16",
+            "OVRPOT": [
+                "69",
+                "82"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "LMSTRM",
+            "Nationality": "Wales"
+        },
+        {
+            "Age": "21",
+            "Name": "Matt Smith",
+            "Number": "19",
+            "OVRPOT": [
+                "67",
+                "78"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CDM",
+            "Nationality": "Wales"
+        },
+        {
+            "Age": "28",
+            "Name": "Adam Davies",
+            "Number": "21",
+            "OVRPOT": [
+                "71",
+                "73"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "GK",
+            "Nationality": "Wales"
+        }
+    ],
+    "Hungary": [
+        {
+            "Age": "31",
+            "Name": "Péter Gulácsi",
+            "Number": "1",
+            "OVRPOT": [
+                "85",
+                "85"
+            ],
+            "Position": "GK",
+            "Preferred Positions": "GK",
+            "Nationality": "Hungary"
+        },
+        {
+            "Age": "31",
+            "Name": "Attila Fiola",
+            "Number": "5",
+            "OVRPOT": [
+                "70",
+                "70"
+            ],
+            "Position": "RCB",
+            "Preferred Positions": "RBCBLB",
+            "Nationality": "Hungary"
+        },
+        {
+            "Age": "28",
+            "Name": "Willi Orban",
+            "Number": "6",
+            "OVRPOT": [
+                "80",
+                "81"
+            ],
+            "Position": "CB",
+            "Preferred Positions": "CB",
+            "Nationality": "Hungary"
+        },
+        {
+            "Age": "23",
+            "Name": "Attila Szalai",
+            "Number": "4",
+            "OVRPOT": [
+                "72",
+                "83"
+            ],
+            "Position": "LCB",
+            "Preferred Positions": "CB",
+            "Nationality": "Hungary"
+        },
+        {
+            "Age": "26",
+            "Name": "Zsolt Kalmár",
+            "Number": "13",
+            "OVRPOT": [
+                "72",
+                "76"
+            ],
+            "Position": "RDM",
+            "Preferred Positions": "CAMLM",
+            "Nationality": "Hungary"
+        },
+        {
+            "Age": "25",
+            "Name": "Ádám Nagy",
+            "Number": "8",
+            "OVRPOT": [
+                "70",
+                "74"
+            ],
+            "Position": "LDM",
+            "Preferred Positions": "CDMCM",
+            "Nationality": "Hungary"
+        },
+        {
+            "Age": "32",
+            "Name": "Gergő Lovrencsics",
+            "Number": "14",
+            "OVRPOT": [
+                "72",
+                "72"
+            ],
+            "Position": "RM",
+            "Preferred Positions": "RB",
+            "Nationality": "Hungary"
+        },
+        {
+            "Age": "27",
+            "Name": "Szilveszter Hangya",
+            "Number": "3",
+            "OVRPOT": [
+                "66",
+                "67"
+            ],
+            "Position": "LM",
+            "Preferred Positions": "LB",
+            "Nationality": "Hungary"
+        },
+        {
+            "Age": "20",
+            "Name": "Dominik Szoboszlai",
+            "Number": "10",
+            "OVRPOT": [
+                "77",
+                "87"
+            ],
+            "Position": "CAM",
+            "Preferred Positions": "CAMLM",
+            "Nationality": "Hungary"
+        },
+        {
+            "Age": "33",
+            "Name": "Ádám Szalai",
+            "Number": "9",
+            "OVRPOT": [
+                "70",
+                "70"
+            ],
+            "Position": "RS",
+            "Preferred Positions": "ST",
+            "Nationality": "Hungary"
+        },
+        {
+            "Age": "24",
+            "Name": "Roland Sallai",
+            "Number": "20",
+            "OVRPOT": [
+                "75",
+                "78"
+            ],
+            "Position": "LS",
+            "Preferred Positions": "RMCF",
+            "Nationality": "Hungary"
+        },
+        {
+            "Age": "33",
+            "Name": "Nemanja Nikolić",
+            "Number": "23",
+            "OVRPOT": [
+                "71",
+                "71"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "ST",
+            "Nationality": "Hungary"
+        },
+        {
+            "Age": "30",
+            "Name": "Loïc Négo",
+            "Number": "7",
+            "OVRPOT": [
+                "73",
+                "73"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "RMRB",
+            "Nationality": "Hungary"
+        },
+        {
+            "Age": "30",
+            "Name": "Dávid Sigér",
+            "Number": "18",
+            "OVRPOT": [
+                "70",
+                "70"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CMCDM",
+            "Nationality": "Hungary"
+        },
+        {
+            "Age": "26",
+            "Name": "Endre Botka",
+            "Number": "21",
+            "OVRPOT": [
+                "69",
+                "71"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "RBCB",
+            "Nationality": "Hungary"
+        },
+        {
+            "Age": "30",
+            "Name": "Dénes Dibusz",
+            "Number": "12",
+            "OVRPOT": [
+                "73",
+                "73"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "GK",
+            "Nationality": "Hungary"
+        },
+        {
+            "Age": "22",
+            "Name": "András Schäfer",
+            "Number": "19",
+            "OVRPOT": [
+                "65",
+                "75"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CDMLM",
+            "Nationality": "Hungary"
+        },
+        {
+            "Age": "28",
+            "Name": "Ádám Lang",
+            "Number": "2",
+            "OVRPOT": [
+                "68",
+                "70"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CB",
+            "Nationality": "Hungary"
+        },
+        {
+            "Age": "30",
+            "Name": "Ádám Kovácsik",
+            "Number": "22",
+            "OVRPOT": [
+                "69",
+                "70"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "GK",
+            "Nationality": "Hungary"
+        },
+        {
+            "Age": "25",
+            "Name": "Kevin Varga",
+            "Number": "17",
+            "OVRPOT": [
+                "69",
+                "72"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "LMRM",
+            "Nationality": "Hungary"
+        },
+        {
+            "Age": "27",
+            "Name": "László Kleinheisler",
+            "Number": "15",
+            "OVRPOT": [
+                "71",
+                "71"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CAM",
+            "Nationality": "Hungary"
+        },
+        {
+            "Age": "26",
+            "Name": "Filip Holender",
+            "Number": "11",
+            "OVRPOT": [
+                "67",
+                "70"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "ST",
+            "Nationality": "Hungary"
+        },
+        {
+            "Age": "25",
+            "Name": "Dániel Gazdag",
+            "Number": "16",
+            "OVRPOT": [
+                "67",
+                "72"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CAMCM",
+            "Nationality": "Hungary"
+        }
+    ],
+    "Poland": [
+        {
+            "Age": "31",
+            "Name": "Wojciech Szczęsny",
+            "Number": "1",
+            "OVRPOT": [
+                "87",
+                "87"
+            ],
+            "Position": "GK",
+            "Preferred Positions": "GK",
+            "Nationality": "Poland"
+        },
+        {
+            "Age": "28",
+            "Name": "Bartosz Bereszyński",
+            "Number": "18",
+            "OVRPOT": [
+                "72",
+                "72"
+            ],
+            "Position": "RCB",
+            "Preferred Positions": "RB",
+            "Nationality": "Poland"
+        },
+        {
+            "Age": "33",
+            "Name": "Kamil Glik",
+            "Number": "15",
+            "OVRPOT": [
+                "75",
+                "75"
+            ],
+            "Position": "CB",
+            "Preferred Positions": "CB",
+            "Nationality": "Poland"
+        },
+        {
+            "Age": "25",
+            "Name": "Jan Bednarek",
+            "Number": "5",
+            "OVRPOT": [
+                "76",
+                "82"
+            ],
+            "Position": "LCB",
+            "Preferred Positions": "CB",
+            "Nationality": "Poland"
+        },
+        {
+            "Age": "30",
+            "Name": "Mateusz Klich",
+            "Number": "14",
+            "OVRPOT": [
+                "74",
+                "74"
+            ],
+            "Position": "RDM",
+            "Preferred Positions": "CM",
+            "Nationality": "Poland"
+        },
+        {
+            "Age": "31",
+            "Name": "Grzegorz Krychowiak",
+            "Number": "10",
+            "OVRPOT": [
+                "80",
+                "80"
+            ],
+            "Position": "LDM",
+            "Preferred Positions": "CDMCM",
+            "Nationality": "Poland"
+        },
+        {
+            "Age": "23",
+            "Name": "Kamil Jóźwiak",
+            "Number": "21",
+            "OVRPOT": [
+                "70",
+                "78"
+            ],
+            "Position": "RM",
+            "Preferred Positions": "LMRM",
+            "Nationality": "Poland"
+        },
+        {
+            "Age": "31",
+            "Name": "Maciej Rybus",
+            "Number": "13",
+            "OVRPOT": [
+                "74",
+                "74"
+            ],
+            "Position": "LM",
+            "Preferred Positions": "LB",
+            "Nationality": "Poland"
+        },
+        {
+            "Age": "27",
+            "Name": "Piotr Zieliński",
+            "Number": "20",
+            "OVRPOT": [
+                "81",
+                "82"
+            ],
+            "Position": "CAM",
+            "Preferred Positions": "CMCAM",
+            "Nationality": "Poland"
+        },
+        {
+            "Age": "27",
+            "Name": "Arkadiusz Milik",
+            "Number": "7",
+            "OVRPOT": [
+                "80",
+                "81"
+            ],
+            "Position": "RS",
+            "Preferred Positions": "ST",
+            "Nationality": "Poland"
+        },
+        {
+            "Age": "32",
+            "Name": "Robert Lewandowski",
+            "Number": "9",
+            "OVRPOT": [
+                "92",
+                "92"
+            ],
+            "Position": "LS",
+            "Preferred Positions": "ST",
+            "Nationality": "Poland"
+        },
+        {
+            "Age": "22",
+            "Name": "Jakub Moder",
+            "Number": "4",
+            "OVRPOT": [
+                "70",
+                "83"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CDMLM",
+            "Nationality": "Poland"
+        },
+        {
+            "Age": "26",
+            "Name": "Tomasz Kędziora",
+            "Number": "2",
+            "OVRPOT": [
+                "75",
+                "78"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "RB",
+            "Nationality": "Poland"
+        },
+        {
+            "Age": "25",
+            "Name": "Michał Helik",
+            "Number": "8",
+            "OVRPOT": [
+                "73",
+                "76"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CB",
+            "Nationality": "Poland"
+        },
+        {
+            "Age": "20",
+            "Name": "Kamil Piątkowski",
+            "Number": "23",
+            "OVRPOT": [
+                "68",
+                "83"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CBRM",
+            "Nationality": "Poland"
+        },
+        {
+            "Age": "36",
+            "Name": "Łukasz Fabiański",
+            "Number": "22",
+            "OVRPOT": [
+                "81",
+                "81"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "GK",
+            "Nationality": "Poland"
+        },
+        {
+            "Age": "24",
+            "Name": "Karol Świderski",
+            "Number": "17",
+            "OVRPOT": [
+                "73",
+                "78"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "ST",
+            "Nationality": "Poland"
+        },
+        {
+            "Age": "24",
+            "Name": "Dawid Kownacki",
+            "Number": "11",
+            "OVRPOT": [
+                "71",
+                "77"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "STLM",
+            "Nationality": "Poland"
+        },
+        {
+            "Age": "30",
+            "Name": "Łukasz Skorupski",
+            "Number": "12",
+            "OVRPOT": [
+                "75",
+                "76"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "GK",
+            "Nationality": "Poland"
+        },
+        {
+            "Age": "23",
+            "Name": "Przemysław Płacheta",
+            "Number": "6",
+            "OVRPOT": [
+                "69",
+                "77"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "LM",
+            "Nationality": "Poland"
+        },
+        {
+            "Age": "26",
+            "Name": "Paweł Dawidowicz",
+            "Number": "16",
+            "OVRPOT": [
+                "73",
+                "78"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CB",
+            "Nationality": "Poland"
+        },
+        {
+            "Age": "17",
+            "Name": "Kacper Kozłowski",
+            "Number": "19",
+            "OVRPOT": [
+                "62",
+                "82"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CM",
+            "Nationality": "Poland"
+        },
+        {
+            "Age": "22",
+            "Name": "Tymoteusz Puchacz",
+            "Number": "3",
+            "OVRPOT": [
+                "67",
+                "78"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "LBLM",
+            "Nationality": "Poland"
+        }
+    ],
+    "Russia": [
+        {
+            "Age": "34",
+            "Name": "Anton Shunin",
+            "Number": "1",
+            "OVRPOT": [
+                "76",
+                "76"
+            ],
+            "Position": "GK",
+            "Preferred Positions": "GK",
+            "Nationality": "Russia"
+        },
+        {
+            "Age": "30",
+            "Name": "Mário Fernandes",
+            "Number": "2",
+            "OVRPOT": [
+                "82",
+                "82"
+            ],
+            "Position": "RB",
+            "Preferred Positions": "RWBRB",
+            "Nationality": "Russia"
+        },
+        {
+            "Age": "32",
+            "Name": "Andrey Semenov",
+            "Number": "5",
+            "OVRPOT": [
+                "72",
+                "72"
+            ],
+            "Position": "RCB",
+            "Preferred Positions": "CB",
+            "Nationality": "Russia"
+        },
+        {
+            "Age": "27",
+            "Name": "Georgiy Dzhikiya",
+            "Number": "14",
+            "OVRPOT": [
+                "77",
+                "79"
+            ],
+            "Position": "LCB",
+            "Preferred Positions": "CB",
+            "Nationality": "Russia"
+        },
+        {
+            "Age": "34",
+            "Name": "Fedor Kudryashov",
+            "Number": "13",
+            "OVRPOT": [
+                "71",
+                "71"
+            ],
+            "Position": "LB",
+            "Preferred Positions": "LBCB",
+            "Nationality": "Russia"
+        },
+        {
+            "Age": "28",
+            "Name": "Magomed Ozdoev",
+            "Number": "7",
+            "OVRPOT": [
+                "77",
+                "78"
+            ],
+            "Position": "RDM",
+            "Preferred Positions": "CDMCM",
+            "Nationality": "Russia"
+        },
+        {
+            "Age": "25",
+            "Name": "Alexandr Golovin",
+            "Number": "17",
+            "OVRPOT": [
+                "79",
+                "83"
+            ],
+            "Position": "LDM",
+            "Preferred Positions": "CMCAM",
+            "Nationality": "Russia"
+        },
+        {
+            "Age": "28",
+            "Name": "Daler Kuzyaev",
+            "Number": "23",
+            "OVRPOT": [
+                "75",
+                "75"
+            ],
+            "Position": "RM",
+            "Preferred Positions": "CMRMCDM",
+            "Nationality": "Russia"
+        },
+        {
+            "Age": "37",
+            "Name": "Yuriy Zhirkov",
+            "Number": "18",
+            "OVRPOT": [
+                "76",
+                "76"
+            ],
+            "Position": "LM",
+            "Preferred Positions": "LBLM",
+            "Nationality": "Russia"
+        },
+        {
+            "Age": "24",
+            "Name": "Rifat Zhemaletdinov",
+            "Number": "19",
+            "OVRPOT": [
+                "74",
+                "78"
+            ],
+            "Position": "CAM",
+            "Preferred Positions": "RMLMCAM",
+            "Nationality": "Russia"
+        },
+        {
+            "Age": "32",
+            "Name": "Artem Dzyuba",
+            "Number": "22",
+            "OVRPOT": [
+                "79",
+                "79"
+            ],
+            "Position": "ST",
+            "Preferred Positions": "ST",
+            "Nationality": "Russia"
+        },
+        {
+            "Age": "25",
+            "Name": "Alexey Miranchuk",
+            "Number": "15",
+            "OVRPOT": [
+                "78",
+                "81"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CAMST",
+            "Nationality": "Russia"
+        },
+        {
+            "Age": "23",
+            "Name": "Ilzat Akhmetov",
+            "Number": "21",
+            "OVRPOT": [
+                "72",
+                "78"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CMCDMCAM",
+            "Nationality": "Russia"
+        },
+        {
+            "Age": "24",
+            "Name": "Daniil Fomin",
+            "Number": "8",
+            "OVRPOT": [
+                "72",
+                "77"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CDMCM",
+            "Nationality": "Russia"
+        },
+        {
+            "Age": "33",
+            "Name": "Roman Neustädter",
+            "Number": "6",
+            "OVRPOT": [
+                "71",
+                "71"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CBCDM",
+            "Nationality": "Russia"
+        },
+        {
+            "Age": "34",
+            "Name": "Soslan Dzhanaev",
+            "Number": "12",
+            "OVRPOT": [
+                "72",
+                "72"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "GK",
+            "Nationality": "Russia"
+        },
+        {
+            "Age": "24",
+            "Name": "Alexandr Sobolev",
+            "Number": "9",
+            "OVRPOT": [
+                "75",
+                "80"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "ST",
+            "Nationality": "Russia"
+        },
+        {
+            "Age": "26",
+            "Name": "Vyacheslav Karavaev",
+            "Number": "4",
+            "OVRPOT": [
+                "74",
+                "75"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "RB",
+            "Nationality": "Russia"
+        },
+        {
+            "Age": "33",
+            "Name": "Yuri Dyupin",
+            "Number": "16",
+            "OVRPOT": [
+                "75",
+                "75"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "GK",
+            "Nationality": "Russia"
+        },
+        {
+            "Age": "23",
+            "Name": "Andrey Mostovoy",
+            "Number": "3",
+            "OVRPOT": [
+                "69",
+                "75"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "LMRM",
+            "Nationality": "Russia"
+        },
+        {
+            "Age": "32",
+            "Name": "Alexey Ionov",
+            "Number": "20",
+            "OVRPOT": [
+                "73",
+                "73"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "RMLMST",
+            "Nationality": "Russia"
+        },
+        {
+            "Age": "27",
+            "Name": "Roman Zobnin",
+            "Number": "11",
+            "OVRPOT": [
+                "78",
+                "81"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CDMCMRM",
+            "Nationality": "Russia"
+        },
+        {
+            "Age": "29",
+            "Name": "Anton Zabolotnyi",
+            "Number": "10",
+            "OVRPOT": [
+                "70",
+                "70"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "ST",
+            "Nationality": "Russia"
+        }
+    ],
+    "Scotland": [
+        {
+            "Age": "34",
+            "Name": "Wayne Hennessey",
+            "Number": "1",
+            "OVRPOT": [
+                "74",
+                "74"
+            ],
+            "Position": "GK",
+            "Preferred Positions": "GK",
+            "Nationality": "Scotland"
+        },
+        {
+            "Age": "25",
+            "Name": "Connor Roberts",
+            "Number": "2",
+            "OVRPOT": [
+                "74",
+                "77"
+            ],
+            "Position": "RWB",
+            "Preferred Positions": "RWBRB",
+            "Nationality": "Scotland"
+        },
+        {
+            "Age": "23",
+            "Name": "Chris Mepham",
+            "Number": "6",
+            "OVRPOT": [
+                "72",
+                "80"
+            ],
+            "Position": "RCB",
+            "Preferred Positions": "CB",
+            "Nationality": "Scotland"
+        },
+        {
+            "Age": "23",
+            "Name": "Joe Rodon",
+            "Number": "23",
+            "OVRPOT": [
+                "71",
+                "82"
+            ],
+            "Position": "CB",
+            "Preferred Positions": "CB",
+            "Nationality": "Scotland"
+        },
+        {
+            "Age": "28",
+            "Name": "Ben Davies",
+            "Number": "4",
+            "OVRPOT": [
+                "79",
+                "79"
+            ],
+            "Position": "LCB",
+            "Preferred Positions": "LBCB",
+            "Nationality": "Scotland"
+        },
+        {
+            "Age": "20",
+            "Name": "Neco Williams",
+            "Number": "3",
+            "OVRPOT": [
+                "68",
+                "84"
+            ],
+            "Position": "LWB",
+            "Preferred Positions": "RB",
+            "Nationality": "Scotland"
+        },
+        {
+            "Age": "30",
+            "Name": "Aaron Ramsey",
+            "Number": "10",
+            "OVRPOT": [
+                "82",
+                "82"
+            ],
+            "Position": "RCM",
+            "Preferred Positions": "CMCAMLM",
+            "Nationality": "Scotland"
+        },
+        {
+            "Age": "20",
+            "Name": "Ethan Ampadu",
+            "Number": "15",
+            "OVRPOT": [
+                "68",
+                "85"
+            ],
+            "Position": "LCM",
+            "Preferred Positions": "CBCDMCM",
+            "Nationality": "Scotland"
+        },
+        {
+            "Age": "31",
+            "Name": "Gareth Bale",
+            "Number": "11",
+            "OVRPOT": [
+                "82",
+                "82"
+            ],
+            "Position": "RW",
+            "Preferred Positions": "RMRW",
+            "Nationality": "Scotland"
+        },
+        {
+            "Age": "28",
+            "Name": "Kieffer Moore",
+            "Number": "13",
+            "OVRPOT": [
+                "73",
+                "73"
+            ],
+            "Position": "ST",
+            "Preferred Positions": "ST",
+            "Nationality": "Scotland"
+        },
+        {
+            "Age": "23",
+            "Name": "Daniel James",
+            "Number": "20",
+            "OVRPOT": [
+                "76",
+                "81"
+            ],
+            "Position": "LW",
+            "Preferred Positions": "RMLMCF",
+            "Nationality": "Scotland"
+        },
+        {
+            "Age": "23",
+            "Name": "David Brooks",
+            "Number": "22",
+            "OVRPOT": [
+                "76",
+                "83"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "RMRW",
+            "Nationality": "Scotland"
+        },
+        {
+            "Age": "24",
+            "Name": "Harry Wilson",
+            "Number": "7",
+            "OVRPOT": [
+                "75",
+                "81"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CAMRMRW",
+            "Nationality": "Scotland"
+        },
+        {
+            "Age": "24",
+            "Name": "Joe Morrell",
+            "Number": "17",
+            "OVRPOT": [
+                "66",
+                "73"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CM",
+            "Nationality": "Scotland"
+        },
+        {
+            "Age": "21",
+            "Name": "Ben Cabango",
+            "Number": "5",
+            "OVRPOT": [
+                "71",
+                "82"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CB",
+            "Nationality": "Scotland"
+        },
+        {
+            "Age": "27",
+            "Name": "Danny Ward",
+            "Number": "12",
+            "OVRPOT": [
+                "74",
+                "74"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "GK",
+            "Nationality": "Scotland"
+        },
+        {
+            "Age": "32",
+            "Name": "Hal Robson-Kanu",
+            "Number": "14",
+            "OVRPOT": [
+                "69",
+                "69"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "STRW",
+            "Nationality": "Scotland"
+        },
+        {
+            "Age": "22",
+            "Name": "Tyler Roberts",
+            "Number": "9",
+            "OVRPOT": [
+                "73",
+                "80"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CAMCMST",
+            "Nationality": "Scotland"
+        },
+        {
+            "Age": "20",
+            "Name": "Dylan Levitt",
+            "Number": "18",
+            "OVRPOT": [
+                "63",
+                "80"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CMCDM",
+            "Nationality": "Scotland"
+        },
+        {
+            "Age": "27",
+            "Name": "Jonathan Williams",
+            "Number": "8",
+            "OVRPOT": [
+                "68",
+                "68"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CAM",
+            "Nationality": "Scotland"
+        },
+        {
+            "Age": "20",
+            "Name": "Rabbi Matondo",
+            "Number": "16",
+            "OVRPOT": [
+                "69",
+                "82"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "LMSTRM",
+            "Nationality": "Scotland"
+        },
+        {
+            "Age": "21",
+            "Name": "Matt Smith",
+            "Number": "19",
+            "OVRPOT": [
+                "67",
+                "78"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CDM",
+            "Nationality": "Scotland"
+        },
+        {
+            "Age": "28",
+            "Name": "Adam Davies",
+            "Number": "21",
+            "OVRPOT": [
+                "71",
+                "73"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "GK",
+            "Nationality": "Scotland"
+        }
+    ],
+    "Turkey": [
+        {
+            "Age": "25",
+            "Name": "Uğurcan Çakır",
+            "Number": "23",
+            "OVRPOT": [
+                "78",
+                "82"
+            ],
+            "Position": "GK",
+            "Preferred Positions": "GK",
+            "Nationality": "Turkey"
+        },
+        {
+            "Age": "24",
+            "Name": "Zeki Çelik",
+            "Number": "2",
+            "OVRPOT": [
+                "79",
+                "83"
+            ],
+            "Position": "RB",
+            "Preferred Positions": "RB",
+            "Nationality": "Turkey"
+        },
+        {
+            "Age": "21",
+            "Name": "Ozan Kabak",
+            "Number": "15",
+            "OVRPOT": [
+                "76",
+                "85"
+            ],
+            "Position": "RCB",
+            "Preferred Positions": "CB",
+            "Nationality": "Turkey"
+        },
+        {
+            "Age": "25",
+            "Name": "Çağlar Söyüncü",
+            "Number": "4",
+            "OVRPOT": [
+                "80",
+                "83"
+            ],
+            "Position": "LCB",
+            "Preferred Positions": "CB",
+            "Nationality": "Turkey"
+        },
+        {
+            "Age": "25",
+            "Name": "Umut Meraş",
+            "Number": "13",
+            "OVRPOT": [
+                "68",
+                "71"
+            ],
+            "Position": "LB",
+            "Preferred Positions": "LBLM",
+            "Nationality": "Turkey"
+        },
+        {
+            "Age": "27",
+            "Name": "Kenan Karaman",
+            "Number": "9",
+            "OVRPOT": [
+                "72",
+                "72"
+            ],
+            "Position": "RM",
+            "Preferred Positions": "ST",
+            "Nationality": "Turkey"
+        },
+        {
+            "Age": "27",
+            "Name": "Okay Yokuşlu",
+            "Number": "5",
+            "OVRPOT": [
+                "76",
+                "79"
+            ],
+            "Position": "RCM",
+            "Preferred Positions": "CDMCM",
+            "Nationality": "Turkey"
+        },
+        {
+            "Age": "26",
+            "Name": "Ozan Tufan",
+            "Number": "6",
+            "OVRPOT": [
+                "74",
+                "77"
+            ],
+            "Position": "LCM",
+            "Preferred Positions": "CMCDMCAM",
+            "Nationality": "Turkey"
+        },
+        {
+            "Age": "27",
+            "Name": "Hakan Çalhanoğlu",
+            "Number": "10",
+            "OVRPOT": [
+                "81",
+                "82"
+            ],
+            "Position": "LM",
+            "Preferred Positions": "CAMLM",
+            "Nationality": "Turkey"
+        },
+        {
+            "Age": "24",
+            "Name": "Yusuf Yazıcı",
+            "Number": "11",
+            "OVRPOT": [
+                "78",
+                "82"
+            ],
+            "Position": "RS",
+            "Preferred Positions": "CFSTCAM",
+            "Nationality": "Turkey"
+        },
+        {
+            "Age": "35",
+            "Name": "Burak Yılmaz",
+            "Number": "17",
+            "OVRPOT": [
+                "80",
+                "80"
+            ],
+            "Position": "LS",
+            "Preferred Positions": "ST",
+            "Nationality": "Turkey"
+        },
+        {
+            "Age": "23",
+            "Name": "Cengiz Ünder",
+            "Number": "7",
+            "OVRPOT": [
+                "77",
+                "82"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "RMRW",
+            "Nationality": "Turkey"
+        },
+        {
+            "Age": "25",
+            "Name": "İrfan Can Kahveci",
+            "Number": "21",
+            "OVRPOT": [
+                "76",
+                "81"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CMCAM",
+            "Nationality": "Turkey"
+        },
+        {
+            "Age": "26",
+            "Name": "Kaan Ayhan",
+            "Number": "22",
+            "OVRPOT": [
+                "75",
+                "78"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CB",
+            "Nationality": "Turkey"
+        },
+        {
+            "Age": "22",
+            "Name": "Mert Müldür",
+            "Number": "25",
+            "OVRPOT": [
+                "71",
+                "81"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "RBCB",
+            "Nationality": "Turkey"
+        },
+        {
+            "Age": "23",
+            "Name": "Altay Bayındır",
+            "Number": "12",
+            "OVRPOT": [
+                "75",
+                "84"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "GK",
+            "Nationality": "Turkey"
+        },
+        {
+            "Age": "24",
+            "Name": "Enes Ünal",
+            "Number": "16",
+            "OVRPOT": [
+                "75",
+                "81"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "ST",
+            "Nationality": "Turkey"
+        },
+        {
+            "Age": "26",
+            "Name": "Taylan Antalyalı",
+            "Number": "14",
+            "OVRPOT": [
+                "73",
+                "78"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CDMCM",
+            "Nationality": "Turkey"
+        },
+        {
+            "Age": "23",
+            "Name": "Merih Demiral",
+            "Number": "3",
+            "OVRPOT": [
+                "76",
+                "85"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CB",
+            "Nationality": "Turkey"
+        },
+        {
+            "Age": "32",
+            "Name": "Mert Günok",
+            "Number": "1",
+            "OVRPOT": [
+                "76",
+                "76"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "GK",
+            "Nationality": "Turkey"
+        },
+        {
+            "Age": "21",
+            "Name": "Abdülkadir Ömür",
+            "Number": "20",
+            "OVRPOT": [
+                "74",
+                "82"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "RMCAM",
+            "Nationality": "Turkey"
+        },
+        {
+            "Age": "25",
+            "Name": "Dorukhan Toköz",
+            "Number": "8",
+            "OVRPOT": [
+                "72",
+                "77"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "CDMCM",
+            "Nationality": "Turkey"
+        },
+        {
+            "Age": "20",
+            "Name": "Rıdvan Yılmaz",
+            "Number": "18",
+            "OVRPOT": [
+                "68",
+                "81"
+            ],
+            "Position": "Sub",
+            "Preferred Positions": "LB",
+            "Nationality": "Turkey"
+        }
+    ]
+}
