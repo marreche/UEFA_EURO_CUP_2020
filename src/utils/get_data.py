@@ -56,5 +56,5 @@ def get_teams():
 
 def get_players():
     return {
-        "Players by Country": euro_data_players
+        "Players": euro_data_players
     }

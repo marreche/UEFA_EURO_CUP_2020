@@ -79,34 +79,34 @@ Turkey = get_table("https://www.fifaindex.com/team/1365/turkey/fifa21_464/")
 Turkey['Nationality'] = 'Turkey'
 
 
+combine = France.append(Portugal)
+combine = combine.append(Finland)
+combine = combine.append(England)
+combine = combine.append(Italy)
+combine = combine.append(Denmark)
+combine = combine.append(Spain)
+combine = combine.append(Belgium)
+combine = combine.append(Czech_Republic)
+combine = combine.append(Switzerland)
+combine = combine.append(Ukraine)
+combine = combine.append(Austria)
+combine = combine.append(Croatia)
+combine = combine.append(Germany)
+combine = combine.append(Netherlands)
+combine = combine.append(Sweden)
+combine = combine.append(Wales)
+combine = combine.append(Hungary)
+combine = combine.append(Poland)
+combine = combine.append(Russia)
+combine = combine.append(Scotland)
+combine = combine.append(Turkey)
+combine = combine.reset_index()
+del combine["index"]
+players = combine
+players
 
 
-Countries = {
-    "Portugal": Portugal.to_dict('records'),
-    "France": France.to_dict('records'),
-    "Finland": Finland.to_dict('records'),
-    "England": England.to_dict('records'),
-    "Italy": Italy.to_dict('records'),
-    "Denmark": Denmark.to_dict('records'),
-    "Spain": Spain.to_dict('records'),
-    "Belgium": Belgium.to_dict('records'),
-    "Czech Republic": Czech_Republic.to_dict('records'),
-    "Switzerland": Switzerland.to_dict('records'),
-    "Ukraine": Ukraine.to_dict('records'),
-    "Austria": Austria.to_dict('records'),
-    "Croatia": Croatia.to_dict('records'),
-    "Germany": Germany.to_dict('records'),
-    "Netherlands": Netherlands.to_dict('records'),
-    "Sweden": Sweden.to_dict('records'),
-    "Wales": Wales.to_dict('records'),
-    "Hungary": Hungary.to_dict('records'),
-    "Poland": Poland.to_dict('records'),
-    "Russia": Russia.to_dict('records'),
-    "Scotland": Scotland.to_dict('records'),
-    "Turkey": Turkey.to_dict('records')
-}
-
-
+data = players.to_json(orient='records')
+parsed = json.loads(data)
 with open("../data/team_players.json","w") as fp:
-    json.dump(Countries,fp,indent=4, ensure_ascii=False)
-
+    res = json.dump(parsed,fp,indent=4,ensure_ascii=False)

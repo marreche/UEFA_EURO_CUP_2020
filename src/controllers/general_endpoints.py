@@ -1,7 +1,8 @@
 from src.app import app
 from src.utils.get_data import get_euro_stages,euro_data_stage, euro_data_players
 from src.utils.json_parser import serialize
-from flask import render_template
+from src.utils.error_handling import errorHandling, MissingArgumentError
+from flask import render_template, request
 
 
 @app.route("/")
@@ -20,10 +21,12 @@ def menu():
         "/stages/groups1" : "EURO CUP 2020 Groups Day One",
         "/stages/groups2" : "EURO CUP 2020 Groups Day Two",
         "/stages/groups3" : "EURO CUP 2020 Groups Day Three",
-        "/teams" : "EURO CUP 2020 Participating Countries"
+        "/teams" : "EURO CUP 2020 Participating Countries",
+        "/teams/players" : "EURO CUP 2020 Participating Players"
     }
 
 @app.route("/all")
+@errorHandling
 @serialize
 def all():
     return {"all_data": (euro_data_stage, euro_data_players)}
@@ -33,4 +36,15 @@ def all():
 def stages():
     euro_stages = get_euro_stages()
     return (euro_stages)
+
+@app.route("/search")
+@errorHandling
+@serialize
+def search():
+    pattern = request.args.get("name")
+    if not pattern:
+        raise MissingArgumentError("name")
+    pattern = f".*{pattern.lower()}.*"
+    res = euro_data_stage({"name":{"$regex":pattern, "$options":"i"}})
+    return (list(res))
 
