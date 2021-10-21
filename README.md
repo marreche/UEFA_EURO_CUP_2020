@@ -10,8 +10,27 @@
 
 ## Install
 
+1. Create new folder to store project and open.
 ```sh
-First you must create new directory: mkdir <name>
+mkdir <folder name>
+```
+```sh
+cd <folder name>
+```
+2. Initialize git in folder and clone repo.
+```sh
+git init 
+```
+```sh
+git clone git@github.com:marreche/UEFA_EURO_CUP_2020.git
+```
+3. Setup a "Euro" environment in your machine.
+```sh
+conda create -f environment.yml
+```
+4. Download all required dependencies to run program.
+```sh
+pip install -r requirements.txt 
 ```
 
 ## Author
