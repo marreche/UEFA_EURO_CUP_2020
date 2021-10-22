@@ -43,9 +43,5 @@ Connect to Api home and select desired data.
 
 * Github: [@marreche](https://github.com/marreche)
 
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
 ***
 
