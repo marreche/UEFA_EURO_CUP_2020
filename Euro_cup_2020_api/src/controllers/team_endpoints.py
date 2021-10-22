@@ -22,13 +22,13 @@ def players():
     players = get_players()
     return (players)
 
-@app.route("/players/search")
-@errorHandling
-@serialize
-def player_search():
-    pattern = request.args.get("name")
-    if not pattern:
-        raise MissingArgumentError("name")
-    pattern = f".*{pattern.lower()}.*"
-    res = players.find({"name":pattern})
-    return (list(res))
+# @app.route("/players/search")
+# @errorHandling
+# @serialize
+# def player_search():
+#     pattern = request.args.get("name")
+#     if not pattern:
+#         raise MissingArgumentError("name")
+#     pattern = f".*{pattern.lower()}.*"
+#     res = players.find({"name":pattern})
+#     return (list(res))

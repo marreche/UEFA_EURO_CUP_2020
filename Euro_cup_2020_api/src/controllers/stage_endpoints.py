@@ -51,3 +51,5 @@ def groups_day_two():
 def groups_day_three():
     euro_groups_day_three = get_groups_day_three()
     return (euro_groups_day_three)
+
+## @app.route("/stage/search")
