@@ -33,7 +33,7 @@ conda create -f environment.yml
 pip install -r requirements.txt 
 ```
 
-##API
+## API
 
 Connect to Api home and select desired data.
 
