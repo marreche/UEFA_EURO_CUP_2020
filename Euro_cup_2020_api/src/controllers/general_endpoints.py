@@ -37,14 +37,14 @@ def stages():
     euro_stages = get_euro_stages()
     return (euro_stages)
 
-@app.route("/search")
-@errorHandling
-@serialize
-def search():
-    pattern = request.args.get("name")
-    if not pattern:
-        raise MissingArgumentError("name")
-    pattern = f".*{pattern.lower()}.*"
-    res = euro_data_stage({"name":{"$regex":pattern, "$options":"i"}})
-    return (list(res))
+# @app.route("/search")
+# @errorHandling
+# @serialize
+# def search():
+#     pattern = request.args.get("name")
+#     if not pattern:
+#         raise MissingArgumentError("name")
+#     pattern = f".*{pattern.lower()}.*"
+#     res = euro_data_stage({"name":{"$regex":pattern, "$options":"i"}})
+#     return (list(res))
 
